@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import morgan from 'morgan';
 import dotenv from 'dotenv';
+import path from 'path';
 import connectDB from './config/db';
 import apiRoutes from './routes/api';
 
@@ -14,7 +15,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 app.use(
   cors({
-    origin: '*',
+    origin: true,
     credentials: true,
   })
 );
@@ -25,13 +26,18 @@ app.use(morgan('dev'));
 // Mount API Routes
 app.use('/api', apiRoutes);
 
-// Root Route
-app.get('/', (req, res) => {
-  res.json({
-    message: 'GIFLRI MERN Stack API Server',
-    status: 'Running',
-    version: '1.0.0',
-    endpoints: '/api/content, /api/institutions, /api/certificates, /api/research, /api/health',
+// Serve the built frontend (production) from the SAME origin as the API,
+// so the client's relative "/api/..." calls resolve correctly without a proxy.
+const clientDist = path.resolve(process.cwd(), 'dist');
+app.use(express.static(clientDist));
+
+// SPA fallback: any non-API GET returns index.html so client-side routing
+// (React Router) works on page refresh and deep links. Falls through in dev
+// (no dist build) so the dev API server keeps working on its own.
+app.use((req, res, next) => {
+  if (req.method !== 'GET' || req.path.startsWith('/api')) return next();
+  res.sendFile(path.join(clientDist, 'index.html'), (err) => {
+    if (err) next();
   });
 });
 
