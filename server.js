@@ -1,11 +1,17 @@
 // Production entry point for the backend.
 //
-// Hostinger (and `npm start`) run `node server.js`. Node cannot execute the
-// TypeScript server (server/server.ts) directly, so we register tsx — the same
-// loader used in development — which transparently compiles the TypeScript
-// server and all of its imports (including tsconfig path aliases) on the fly.
-import { register } from 'tsx/esm/api';
+// Hostinger's Passenger/LiteSpeed runtime loads this file with require(), so it
+// MUST be synchronous and must NOT use top-level await (require() cannot load an
+// ESM graph that contains top-level await -> ERR_REQUIRE_ASYNC_MODULE).
+//
+// We enable tsx's CommonJS hook so Node can require the TypeScript server
+// (server/server.ts) and all of its imports on the fly, then load it.
+import { createRequire } from 'node:module';
 
-register();
+const require = createRequire(import.meta.url);
 
-await import('./server/server.ts');
+// Register tsx so require() understands TypeScript / ESM-syntax .ts files.
+require('tsx/cjs');
+
+// Load and start the Express server (server/server.ts calls app.listen()).
+require('./server/server.ts');
