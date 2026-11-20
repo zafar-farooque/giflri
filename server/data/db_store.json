@@ -1,0 +1,3609 @@
+{
+  "siteSettings": {
+    "siteTitle": "GIFLRI | Global Islamic Finance & Language Research Institution",
+    "siteTagline": "Advancing Islamic Finance, Arabic Language Excellence & Scholarly Research",
+    "heroHeadline": "Advancing Islamic Finance & Global Knowledge",
+    "heroSubheadline": "Empowering universities, colleges, and scholarly institutions with international accreditation, standardized curricula, and academic quality assurance.",
+    "heroCtaPrimaryText": "Apply for Affiliation",
+    "heroCtaPrimaryLink": "/affiliation/apply",
+    "heroCtaSecondaryText": "Verify Credentials",
+    "heroCtaSecondaryLink": "/verify",
+    "heroStats": {
+      "countries": 59,
+      "institutions": 200,
+      "programs": 400,
+      "experts": 150
+    },
+    "announcement": {
+      "enabled": true,
+      "badge": "NEW REGISTRY 2026",
+      "text": "Global Islamic ESG Accreditation Standards 2026 released. Affiliated institutions may download the compliance handbook.",
+      "link": "/quality",
+      "type": "event"
+    },
+    "contactEmail": "secretariat@giflri.org",
+    "contactPhone": "+971 4 800 GIFLRI / +91 0000000000",
+    "headquartersAddress": "Dubai International Academic City, Block 12, P.O. Box 50021, Dubai, UAE",
+    "copyrightText": "© 2026 GIFLRI. Global Islamic Finance & Language Research Institution. All Rights Reserved.",
+    "socialLinks": {
+      "twitter": "https://twitter.com/giflri",
+      "linkedin": "https://linkedin.com/company/giflri",
+      "youtube": "https://youtube.com/@giflri",
+      "facebook": "https://facebook.com/giflri"
+    }
+  },
+  "websiteContent": {
+    "about": {
+      "eyebrow": "About GIFLRI International",
+      "title": "Pioneering Excellence in Islamic Knowledge, Language & Governance",
+      "subtitle": "GIFLRI is a premier international standards-setting body bridging sacred tradition with modern financial technologies and global academic rigor.",
+      "calligraphyText": "إِقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "calligraphyTranslation": "Read in the name of your Lord who created",
+      "mission": "To formulate universal quality standards, standardized academic curricula, and rigorous accreditation pathways for Islamic educational bodies worldwide.",
+      "vision": "A unified global ecosystem where ethical Islamic finance and Arabic linguistic scholarship lead international sustainable development.",
+      "card1Title": "Ethical Shariah Rigor",
+      "card1Desc": "Deep immersion into classical Fiqh al-Muamalat paired with cutting-edge ESG auditing.",
+      "card2Title": "Global Institutional Recognition",
+      "card2Desc": "Over 200 accredited institutions across 59 countries trust our standardized quality benchmarks."
+    },
+    "quality": {
+      "eyebrow": "Auditing & Accreditation",
+      "title": "Comprehensive 8-Domain Quality Assurance Framework",
+      "subtitle": "Standardized institutional scorecards, peer-reviewed curriculum verification, and annual on-site audits.",
+      "auditBadge": "ISO & AAOIFI Aligned Continuous Governance"
+    },
+    "affiliation": {
+      "eyebrow": "Institutional Pathways",
+      "title": "Empowering Educational Institutions Across 59 Nations",
+      "subtitle": "Join an internationally certified network of universities, colleges, and training academies.",
+      "trustTitle": "Trust-First Institutional Auditing",
+      "trustDesc": "Every affiliated institution receives a unique cryptographic registry hash and continuous academic oversight."
+    },
+    "relations": {
+      "eyebrow": "Global Network",
+      "title": "International Cooperation & Strategic MoUs",
+      "subtitle": "Collaborating with multilateral development banks, supranational academies, and state ministries."
+    },
+    "observatory": {
+      "eyebrow": "Global Intelligence",
+      "title": "Islamic Finance & Economic Observatory 2026",
+      "subtitle": "Real-time aggregated indicators across sovereign Sukuk issuances, Takaful penetration, and Islamic FinTech sandboxes.",
+      "growthStat": "+14.8% Global Shariah Asset Growth YoY"
+    },
+    "globalPresence": {
+      "eyebrow": "International Footprint",
+      "title": "A Global Network of Accredited Institutions",
+      "subtitle": "Connecting 200+ partner universities, regulatory boards, and research centers across 59 countries.",
+      "countries": [
+        {
+          "country": "UAE",
+          "code": "AE",
+          "lat": 23.4241,
+          "lng": 53.8478,
+          "institutions": 12,
+          "programs": 45,
+          "experts": 28,
+          "students": 3200,
+          "focusArea": "Islamic FinTech Hub, Digital Sukuk frameworks, Shariah governance models, and sovereign wealth optimization.",
+          "partners": [
+            "Dubai Islamic Economy Development Centre",
+            "Zayed University Research Wing",
+            "GIFLRI UAE Innovation Lab"
+          ],
+          "projects": [
+            "Blockchain Smart Contracts for Sukuks",
+            "Ethical AI Chatbots for Islamic Banking",
+            "Shariah Crowdfunding Platforms"
+          ],
+          "milestone": "Accredited 12 new Shariah Fintech programs; trained 3,200+ practitioners in 2026.",
+          "lead": "Dr. Ahmed Al-Mansoori (Regional Shariah Board Chairman)"
+        },
+        {
+          "country": "Saudi Arabia",
+          "code": "SA",
+          "lat": 23.8859,
+          "lng": 45.0792,
+          "institutions": 18,
+          "programs": 67,
+          "experts": 42,
+          "students": 5100,
+          "focusArea": "Mega Shariah-compliant funds, Sovereign Sukuk frameworks, Arabic linguistic corpus research, and historical manuscript OCR models.",
+          "partners": [
+            "Islamic University of Madinah",
+            "King Abdulaziz University Islamic Economics Department",
+            "GIFLRI Riyadh Centre"
+          ],
+          "projects": [
+            "Ancient Shariah Manuscript Digital Archivist",
+            "Global Sukuk Liquidity Indexing",
+            "Saudi Vision 2030 Ethical Economy Integration"
+          ],
+          "milestone": "Co-published 67 research papers on Islamic capital markets and standardized 18 academic curricula.",
+          "lead": "Prof. Khalid Al-Faisal (Shariah & Jurisprudence Lead)"
+        },
+        {
+          "country": "Malaysia",
+          "code": "MY",
+          "lat": 4.2105,
+          "lng": 101.9758,
+          "institutions": 22,
+          "programs": 78,
+          "experts": 48,
+          "students": 6200,
+          "focusArea": "Global Halal standard compliance registry, Green Sukuk initiatives, and digital Islamic banking policies.",
+          "partners": [
+            "International Islamic University Malaysia (IIUM)",
+            "INCEIF University",
+            "Islamic Banking & Finance Institute Malaysia"
+          ],
+          "projects": [
+            "Global Halal Supply Chain Verification Ledger",
+            "Green Sukuk Sustainable Investment Standard",
+            "Digital Takaful Solvency Sandbox"
+          ],
+          "milestone": "Evaluated and approved 78 language and finance programs, coordinating with 48 senior Malaysian advisors.",
+          "lead": "Dato' Dr. Mohd Daud Bakar (Senior Academic Coordinator)"
+        },
+        {
+          "country": "Indonesia",
+          "code": "ID",
+          "lat": -0.7893,
+          "lng": 113.9213,
+          "institutions": 28,
+          "programs": 95,
+          "experts": 55,
+          "students": 8500,
+          "focusArea": "Islamic microfinance networks, Waqf digitalization, and community Islamic banking education.",
+          "partners": [
+            "Universitas Indonesia",
+            "UIN Syarif Hidayatullah Jakarta",
+            "Bank Indonesia Institute"
+          ],
+          "projects": [
+            "Cash Waqf Linked Sukuk Framework",
+            "Community Halal Microfinance Sandbox",
+            "Digital Islamic Economy Training"
+          ],
+          "milestone": "Expanded affiliation network to 28 campuses with over 8,500 active certified students.",
+          "lead": "Prof. Dr. Dian Masyita (Islamic Microfinance Specialist)"
+        },
+        {
+          "country": "Egypt",
+          "code": "EG",
+          "lat": 26.8206,
+          "lng": 30.8025,
+          "institutions": 14,
+          "programs": 55,
+          "experts": 36,
+          "students": 4100,
+          "focusArea": "Classical Fiqh al-Muamalat jurisprudence, Arabic linguistic corpora, and historical manuscript authentication.",
+          "partners": [
+            "Al-Azhar University",
+            "Cairo University Faculty of Dar El-Ulum",
+            "Academy of the Arabic Language in Cairo"
+          ],
+          "projects": [
+            "Classical Arabic Grammar Digital Corpus",
+            "Historical Shariah Legal Codes Digitization",
+            "Master Arabic Pedagogy Curriculum"
+          ],
+          "milestone": "Graduated 4,100 certified Arabic language educators and accredited 14 institutional faculties.",
+          "lead": "Dr. Mahmoud Al-Tayyib (Arabic Language Directorate Chair)"
+        },
+        {
+          "country": "Türkiye",
+          "code": "TR",
+          "lat": 38.9637,
+          "lng": 35.2433,
+          "institutions": 15,
+          "programs": 52,
+          "experts": 35,
+          "students": 4300,
+          "focusArea": "Participation banking standards, Ottoman financial records digitization, and regional trade finance Sukuk.",
+          "partners": [
+            "Istanbul Sabahattin Zaim University",
+            "Marmara University Islamic Economics Institute",
+            "TKBB Participation Banks Association"
+          ],
+          "projects": [
+            "Participation Banking Risk Management Matrix",
+            "Ottoman Waqf Archives Digital Registry",
+            "Bosphorus Ethical Finance Forum"
+          ],
+          "milestone": "Standardized participation banking curricula across 15 Turkish higher education institutes.",
+          "lead": "Prof. Dr. Mehmet Asutay (Regional Academic Advisor)"
+        },
+        {
+          "country": "United Kingdom",
+          "code": "GB",
+          "lat": 55.3781,
+          "lng": -3.436,
+          "institutions": 6,
+          "programs": 20,
+          "experts": 18,
+          "students": 1400,
+          "focusArea": "European Islamic finance compliance, alternative investments, and ethical ESG fund certification.",
+          "partners": [
+            "Durham University Islamic Finance Centre",
+            "SOAS University of London",
+            "UK Islamic Finance Council (UKIFC)"
+          ],
+          "projects": [
+            "London Green Sukuk Governance Standard",
+            "European Shariah Fintech Sandbox",
+            "Islamic Wealth Management Syllabus"
+          ],
+          "milestone": "Established continuous accreditation for 6 leading UK academic and professional institutions.",
+          "lead": "Prof. Habib Ahmed (European Academic Liaison)"
+        }
+      ]
+    },
+    "latestUpdates": {
+      "eyebrow": "News & Announcements",
+      "title": "Latest Updates & Research Releases",
+      "subtitle": "Stay informed on standard releases, upcoming conferences, research calls, and institutional updates.",
+      "updates": [
+        {
+          "id": 1,
+          "type": "research",
+          "label": "Research",
+          "title": "New Study on Sovereign Sukuk Risk Management Published",
+          "desc": "GIFLRI Journal of Islamic Finance releases a comprehensive analysis of Sukuk structures in volatile global capital markets.",
+          "date": "2026-03-01",
+          "author": "Dr. Tariq Al-Mansoor",
+          "readTime": "8 min read"
+        },
+        {
+          "id": 2,
+          "type": "event",
+          "label": "Flagship Event",
+          "title": "Global Islamic Finance Conference (GIFC 2027) Dubai",
+          "desc": "Join 500+ international scholars, regulators, and financial executives in Dubai for the premier global gathering.",
+          "date": "2027-02-20",
+          "location": "Dubai International Financial Centre, UAE"
+        },
+        {
+          "id": 3,
+          "type": "announcement",
+          "label": "Standards Update",
+          "title": "2026 Affiliation Standards & Quality Matrix Released",
+          "desc": "Updated quality assurance framework with enhanced digital governance and automated student support criteria.",
+          "date": "2026-02-15",
+          "author": "Quality Assurance Division"
+        },
+        {
+          "id": 4,
+          "type": "research",
+          "label": "Linguistics",
+          "title": "Arabic Computational Pedagogy in the Era of AI & LLMs",
+          "desc": "Groundbreaking research explores AI-assisted Arabic language acquisition and morphology processing methodologies.",
+          "date": "2026-02-01",
+          "author": "Prof. Dr. Mahmoud Al-Tayyib",
+          "readTime": "12 min read"
+        },
+        {
+          "id": 5,
+          "type": "event",
+          "label": "Hackathon",
+          "title": "Islamic FinTech & Smart Contracts Hackathon 2026",
+          "desc": "A 48-hour global developer innovation challenge building Shariah-compliant smart contracts and decentralized solutions.",
+          "date": "2026-04-18",
+          "location": "Kuala Lumpur, Malaysia"
+        },
+        {
+          "id": 6,
+          "type": "announcement",
+          "label": "Call for Papers",
+          "title": "Call for Papers: Green Sukuk & Sustainable ESG Frameworks",
+          "desc": "Special volume of GIFLRI Journal inviting scholarly submissions on sustainable Islamic instruments for climate action.",
+          "date": "2026-06-30",
+          "deadline": "Submission Deadline: June 30, 2026"
+        }
+      ]
+    },
+    "quickActions": {
+      "eyebrow": "Navigation Pathways",
+      "title": "Quick Access Portal Desks",
+      "actions": [
+        {
+          "label": "Apply for Institutional Affiliation",
+          "desc": "Start your university or academy accreditation journey with GIFLRI.",
+          "href": "/affiliation/apply",
+          "color": "gold",
+          "iconName": "Building2"
+        },
+        {
+          "label": "Affiliated Institutions Directory",
+          "desc": "Search and browse over 200 verified partner institutions globally.",
+          "href": "/directory",
+          "color": "primary",
+          "iconName": "Search"
+        },
+        {
+          "label": "Verify Certificates & Credentials",
+          "desc": "Instantly verify QR-backed verifiable diplomas and student credentials.",
+          "href": "/verify",
+          "color": "emerald",
+          "iconName": "ShieldCheck"
+        },
+        {
+          "label": "Find Approved Curricula & Programs",
+          "desc": "Discover certified diplomas, executive masterclasses, and degrees.",
+          "href": "/programs",
+          "color": "blue",
+          "iconName": "BookOpen"
+        },
+        {
+          "label": "Submit Research Paper or Journal DOI",
+          "desc": "Submit working papers and dissertations to GIFLRI peer-reviewed journals.",
+          "href": "/research",
+          "color": "purple",
+          "iconName": "FlaskConical"
+        },
+        {
+          "label": "Ask GIFLRI Ethical AI Advisor",
+          "desc": "Get immediate AI-guided answers on Shariah curricula and standards.",
+          "href": "/ai",
+          "color": "orange",
+          "iconName": "Bot"
+        }
+      ]
+    },
+    "footer": {
+      "aboutText": "The Global Islamic Finance & Language Research Institution (GIFLRI) is the premier international body for Islamic educational standards, research journals, and institutional accreditation.",
+      "secretariatInfo": "Dubai International Academic City, Block 12, P.O. Box 50021, Dubai, United Arab Emirates",
+      "phone": "+971 4 800 GIFLRI / +91 00000000000",
+      "email": "secretariat@giflri.org",
+      "address": "Dubai International Academic City, UAE",
+      "copyright": "© 2026 GIFLRI. Global Islamic Finance & Language Research Institution. All Rights Reserved."
+    }
+  },
+  "mediaAssets": [
+    {
+      "id": "media-1788852734415",
+      "key": "research-center-banner",
+      "name": "Global Research Center Banner",
+      "category": "banner",
+      "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1920&q=80",
+      "description": "",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "media-1",
+      "key": "site-logo-master",
+      "name": "GIFLRI Official Emblem & Crest",
+      "category": "logo",
+      "url": "/logo.jpg",
+      "description": "Master royal gold and emerald institution crest used in header, footer, and certificates",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "media-2",
+      "key": "hero-video-loop",
+      "name": "Hero Section Ambient Video Loop",
+      "category": "video",
+      "url": "/124062-729835809.mp4",
+      "description": "4K ambient geometric luxury video loop for hero background",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "media-3",
+      "key": "hero-poster-fallback",
+      "name": "Hero Background Fallback Poster",
+      "category": "banner",
+      "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1920&q=80",
+      "description": "Fallback image for mobile devices or low bandwidth networks",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-4",
+      "key": "event-gifc-2027",
+      "name": "Global Islamic Finance Conference (GIFC 2027)",
+      "category": "banner",
+      "url": "/events/gifc-2027.jpg",
+      "description": "Flagship international finance conference cover banner in Dubai",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-5",
+      "key": "event-arabic-summit",
+      "name": "International Arabic Linguistics Summit Banner",
+      "category": "banner",
+      "url": "/events/arabic-summit.jpg",
+      "description": "Annual global summit on classical & computational Arabic pedagogy",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-6",
+      "key": "event-fintech-hackathon",
+      "name": "Islamic FinTech & AI Hackathon Banner",
+      "category": "banner",
+      "url": "/events/fintech-hackathon.jpg",
+      "description": "Developer symposium on smart contracts and Fiqh al-Muamalat",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-7",
+      "key": "event-takaful-forum",
+      "name": "Global Takaful Leadership Forum",
+      "category": "banner",
+      "url": "/events/takaful-forum.jpg",
+      "description": "Executive gathering on mutual insurance and actuarial governance",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-8",
+      "key": "event-annual-research",
+      "name": "Annual Research Symposium Banner",
+      "category": "banner",
+      "url": "/events/annual-research.jpg",
+      "description": "Scholarly conference banner for peer-reviewed journal presentations",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-9",
+      "key": "event-past-cairo",
+      "name": "Cairo Shariah Governance Summit Archive Banner",
+      "category": "banner",
+      "url": "/events/past-cairo.jpg",
+      "description": "Archived proceeding banner for North Africa regional roundtable",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-10",
+      "key": "program-banking-capital",
+      "name": "Islamic Banking & Capital Markets Diploma Cover",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+      "description": "Visual cover for flagship Islamic banking curriculum",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-11",
+      "key": "program-arabic-linguistics",
+      "name": "Classical & Contemporary Arabic Linguistics Cover",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+      "description": "Visual cover for standardized Arabic language curriculum",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-12",
+      "key": "program-shariah-governance",
+      "name": "Shariah Governance & ESG Compliance Course Cover",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "description": "Visual cover for executive institutional governance training",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-13",
+      "key": "program-fintech-smartcontracts",
+      "name": "Digital FinTech & Smart Contracts Masterclass",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=1200&q=80",
+      "description": "Visual cover for blockchain and Islamic financial technology",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-14",
+      "key": "program-takaful-actuarial",
+      "name": "Takaful & Actuarial Foundations Banner",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=1200&q=80",
+      "description": "Visual cover for Islamic insurance principles program",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-15",
+      "key": "journal-banking-fintech",
+      "name": "Journal of Islamic Banking, Law & Sustainable FinTech Cover",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1532012164546-f432f2e3777f?auto=format&fit=crop&w=800&q=80",
+      "description": "Official ISSN journal cover for Volume 14 research publications",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-16",
+      "key": "journal-arabic-review",
+      "name": "International Arabic Linguistics & Pedagogical Review Cover",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?auto=format&fit=crop&w=800&q=80",
+      "description": "Official ISSN quarterly journal cover for Volume 9 linguistics review",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-17",
+      "key": "journal-sukuk-compendium",
+      "name": "Global Sovereign Sukuk & Green Finance Compendium 2026",
+      "category": "visual",
+      "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=800&q=80",
+      "description": "Annual research publication compiling global Islamic bond issuances",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-18",
+      "key": "scholar-tariq-mansoor",
+      "name": "Dr. Tariq Al-Mansoor Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "description": "Executive Director & Chief Registrar profile photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-19",
+      "key": "scholar-aisha-hashemi",
+      "name": "Dr. Aisha Al-Hashemi Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      "description": "Head of Shariah Auditing & ESG Compliance photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-20",
+      "key": "scholar-mahmoud-tayyib",
+      "name": "Prof. Dr. Mahmoud Al-Tayyib Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "description": "Chair of Arabic Language Corpus & Classical Linguistics photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-21",
+      "key": "scholar-sarah-johnson",
+      "name": "Dr. Sarah Johnson Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "description": "Senior FinTech & ESG Specialist Scholar photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-22",
+      "key": "scholar-omar-farooq",
+      "name": "Dr. Omar Farooq Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
+      "description": "Director of Curriculum Standards & Institutional Audits photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-23",
+      "key": "scholar-fatima-zahra",
+      "name": "Dr. Fatima Al-Zahra Portrait",
+      "category": "avatar",
+      "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "description": "Director of Academic Affairs & International Affiliations photo",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-24",
+      "key": "certificate-parchment-bg",
+      "name": "Official Cryptographic Certificate Parchment Template",
+      "category": "template",
+      "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
+      "description": "High security digital watermarked parchment background for verifiable diplomas",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-25",
+      "key": "accreditation-plaque-bg",
+      "name": "Institutional Accreditation Plaque Template",
+      "category": "template",
+      "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "description": "Official gold-bordered institutional affiliation wall plaque template",
+      "updatedAt": "2026-03-01"
+    },
+    {
+      "id": "media-26",
+      "key": "quality-auditing-badge",
+      "name": "ISO 9001 & AAOIFI Auditing Stamp",
+      "category": "logo",
+      "url": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=400&q=80",
+      "description": "Quality audit emblem and international standard accreditation badge",
+      "updatedAt": "2026-03-01"
+    }
+  ],
+  "pillars": [
+    {
+      "id": "finance",
+      "titleKey": "pillars.islamicFinance",
+      "customTitle": "Islamic Banking & Sustainable FinTech",
+      "descKey": "pillars.financeDesc",
+      "customDesc": "Standardizing ethical banking frameworks, green Sukuk certifications, and solvency indicators globally.",
+      "color": "emerald",
+      "gradient": "from-emerald-600 to-emerald-700",
+      "bgGradient": "from-emerald-500/10 to-emerald-600/10",
+      "objective": "Standardizing ethical banking frameworks, green Sukuk certifications, and solvency indicators globally.",
+      "stats": [
+        {
+          "label": "Audited Assets",
+          "value": "$2.4B+"
+        },
+        {
+          "label": "Partners Banks",
+          "value": "12"
+        },
+        {
+          "label": "Certified Standards",
+          "value": "45"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Sovereign Sukuk Audits",
+          "desc": "Developing standardized governance systems for public sector Sukuk issues."
+        },
+        {
+          "title": "Islamic FinTech Sandbox",
+          "desc": "Providing testing beds for decentralized Shariah-compliant digital banking systems."
+        },
+        {
+          "title": "Green Takaful Integration",
+          "desc": "Authoring standards that align climate finance requirements with Takaful reserves."
+        },
+        {
+          "title": "Risk Compliance Metrics",
+          "desc": "Developing solvency metrics to audit and evaluate regional cooperative models."
+        }
+      ],
+      "projects": [
+        "Blockchain Smart Contracts for Sukuks (Regional Pilot)",
+        "Green Islamic Finance Taxonomy development with the Islamic Development Bank"
+      ]
+    },
+    {
+      "id": "languages",
+      "titleKey": "pillars.languages",
+      "customTitle": "Arabic Language & Linguistic Technology",
+      "descKey": "pillars.languagesDesc",
+      "customDesc": "Preserving and digitizing Arabic linguistics through NLP language models, digital dictionaries, and education standards.",
+      "color": "gold",
+      "gradient": "from-gold-500 to-gold-600",
+      "bgGradient": "from-gold-500/10 to-gold-600/10",
+      "objective": "Preserving and digitizing Arabic linguistics through NLP language models, digital dictionaries, and education standards.",
+      "stats": [
+        {
+          "label": "Speaking Countries",
+          "value": "59"
+        },
+        {
+          "label": "Words in Corpus",
+          "value": "40M+"
+        },
+        {
+          "label": "Accredited Centers",
+          "value": "78"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Arabic NLP Databases",
+          "desc": "Assembling annotated datasets to optimize NLP models for modern Arabic dialects."
+        },
+        {
+          "title": "Ancient Manuscript OCR",
+          "desc": "Training optical character recognition models to read and archive ancient Shariah treatises."
+        },
+        {
+          "title": "Linguistic Proficiency Index",
+          "desc": "Standardizing levels of Arabic language fluency for schools globally."
+        },
+        {
+          "title": "Academic Lexicons",
+          "desc": "Assembling bilingual dictionaries mapping legal and financial terms."
+        }
+      ],
+      "projects": [
+        "Digital Arabic Heritage Digitization Hub (Cairo Office)",
+        "Universal benchmark datasets for Arabic Language Models (NLP Alliance)"
+      ]
+    },
+    {
+      "id": "research",
+      "titleKey": "pillars.research",
+      "customTitle": "Peer-Reviewed Scholarly Research",
+      "descKey": "pillars.researchDesc",
+      "customDesc": "Publishing peer-reviewed Shariah studies, financial terminology databases, and hosting annual compliance forums.",
+      "color": "blue",
+      "gradient": "from-blue-500 to-blue-600",
+      "bgGradient": "from-blue-500/10 to-gold-600/10",
+      "objective": "Publishing peer-reviewed Shariah studies, financial terminology databases, and hosting annual compliance forums.",
+      "stats": [
+        {
+          "label": "Publications",
+          "value": "156"
+        },
+        {
+          "label": "Scholars Network",
+          "value": "150+"
+        },
+        {
+          "label": "Active Journals",
+          "value": "4"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Peer-Reviewed Journals",
+          "desc": "Publishing original, double-blind reviewed literature on ethical economics."
+        },
+        {
+          "title": "Auditing Manual Series",
+          "desc": "Assembling structured checklists and guides for Islamic financial audits."
+        },
+        {
+          "title": "Visiting Scholar Grants",
+          "desc": "Sponsoring research fellowships for leading global Shariah scholars."
+        },
+        {
+          "title": "Research MoUs",
+          "desc": "Creating unified knowledge sharing targets with universities globally."
+        }
+      ],
+      "projects": [
+        "Unified Shariah Economics Lexicon Initiative",
+        "Sustainable Development Goals (SDG) Compliance in Takaful Systems research"
+      ]
+    },
+    {
+      "id": "development",
+      "titleKey": "pillars.institutionDev",
+      "customTitle": "Institutional Development & Accreditation",
+      "descKey": "pillars.devDesc",
+      "customDesc": "Auditing universities, schools, and finance houses to accredit and issue GIFLRI compliance badges.",
+      "color": "purple",
+      "gradient": "from-purple-500 to-purple-600",
+      "bgGradient": "from-purple-500/10 to-purple-600/10",
+      "objective": "Auditing universities, schools, and finance houses to accredit and issue GIFLRI compliance badges.",
+      "stats": [
+        {
+          "label": "Accredited Schools",
+          "value": "203"
+        },
+        {
+          "label": "Issued Credentials",
+          "value": "1,247"
+        },
+        {
+          "label": "Active Auditors",
+          "value": "89"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Compliance Quality Audits",
+          "desc": "Evaluating educational structures to ensure compliance with quality regulations."
+        },
+        {
+          "title": "Corrective Action Sandbox",
+          "desc": "Providing advisory programs for schools to resolve compliance gaps."
+        },
+        {
+          "title": "Blockchain Badge Registry",
+          "desc": "Storing accreditation metadata securely to prevent forgery."
+        },
+        {
+          "title": "Auditor Training Center",
+          "desc": "Offering professional training to regional Shariah finance reviewers."
+        }
+      ],
+      "projects": [
+        "National Higher Education Compliance Audits (Joint Program)",
+        "Digital Audit Ledger & Verification Portal Release"
+      ]
+    },
+    {
+      "id": "cooperation",
+      "titleKey": "pillars.intlCooperation",
+      "customTitle": "International Academic Cooperation",
+      "descKey": "pillars.coopDesc",
+      "customDesc": "Fostering academic cooperation, student exchanges, and joint regulatory standards across borders.",
+      "color": "orange",
+      "gradient": "from-orange-500 to-orange-600",
+      "bgGradient": "from-orange-500/10 to-orange-600/10",
+      "objective": "Fostering academic cooperation, student exchanges, and joint regulatory standards across borders.",
+      "stats": [
+        {
+          "label": "Active Nations",
+          "value": "59"
+        },
+        {
+          "label": "Joined MOUs",
+          "value": "30+"
+        },
+        {
+          "label": "Annual Seminars",
+          "value": "28"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Credit Transfer Protocol",
+          "desc": "Creating standardized criteria for student credit transfer between partner hubs."
+        },
+        {
+          "title": "Scholar Exchanges",
+          "desc": "Enabling visiting professors to collaborate across borders."
+        },
+        {
+          "title": "Regulatory Alliances",
+          "desc": "Supporting joint standards between central Shariah boards globally."
+        },
+        {
+          "title": "Ethical Economy Forums",
+          "desc": "Hosting dialogs to align ethical investment criteria globally."
+        }
+      ],
+      "projects": [
+        "UNESCO Alliance for Digital Preserving of Semitic Dialects",
+        "World Bank Green Sukuk Advisory Joint Working Group"
+      ]
+    },
+    {
+      "id": "digital",
+      "titleKey": "pillars.knowledgeDigital",
+      "customTitle": "Knowledge & Digital Sandboxes",
+      "descKey": "pillars.digitalDesc",
+      "customDesc": "Deploying AI models, digital sandboxes, and virtual learning portals grounded in ethical Shariah policies.",
+      "color": "pink",
+      "gradient": "from-pink-500 to-pink-600",
+      "bgGradient": "from-pink-500/10 to-pink-600/10",
+      "objective": "Deploying AI models, digital sandboxes, and virtual learning portals grounded in ethical Shariah policies.",
+      "stats": [
+        {
+          "label": "Core Portals",
+          "value": "3"
+        },
+        {
+          "label": "AI User Queries",
+          "value": "12K+"
+        },
+        {
+          "label": "API Integrations",
+          "value": "45"
+        }
+      ],
+      "initiatives": [
+        {
+          "title": "Ask GIFLRI AI Support",
+          "desc": "Integrating policy-grounded AI helpers to support student and reviewer queries."
+        },
+        {
+          "title": "Virtual Portals",
+          "desc": "Building digital systems for students, schools, and auditors to coordinate."
+        },
+        {
+          "title": "Developer API Hub",
+          "desc": "Exposing open Arabic corpora and finance standards to research platforms."
+        },
+        {
+          "title": "Digital Sandbox tools",
+          "desc": "Publishing smart contract templates for compliance testing."
+        }
+      ],
+      "projects": [
+        "Digital Arabic Pedagogy Mobile App (South-East Asia)",
+        "Ethical AI Compliance Guardrail Tool development"
+      ]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "inst-1788952950431",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-7287",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": ""
+    },
+    {
+      "id": "inst-1788952948817",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-1201",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": ""
+    },
+    {
+      "id": "inst-1788952948589",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-2663",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": ""
+    },
+    {
+      "id": "inst-1788952948325",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-9577",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": ""
+    },
+    {
+      "id": "inst-1788952947635",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-9742",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": ""
+    },
+    {
+      "id": "inst-1788952946145",
+      "name": "efdsfa",
+      "type": "University",
+      "country": "UAE",
+      "city": "Dubai",
+      "established": 2000,
+      "status": "Active",
+      "affiliationType": "Institutional Full Accreditation",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIFLRI-8554",
+      "programsCount": 0,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "A+ Compliant",
+      "website": "",
+      "_id": "6aa14172f689277bf6cddc80",
+      "qrCode": "",
+      "createdAt": "2026-09-09T11:22:26.166Z",
+      "updatedAt": "2026-09-09T11:22:26.166Z",
+      "__v": 0
+    },
+    {
+      "id": "1788949393894",
+      "name": "RK ",
+      "country": "UAE",
+      "city": "Dubai",
+      "type": "University",
+      "field": [
+        "Islamic Finance"
+      ],
+      "mode": [
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "01 Jan 2027 – 31 Dec 2029",
+      "affiliationDate": "2026-09-09",
+      "giflriId": "GIF-UA-000009",
+      "programsCount": 1,
+      "students": 0,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance"
+      ],
+      "qualityStatus": "Annual compliance submitted",
+      "qrCode": "GIF-UA-000009",
+      "contact": {
+        "email": "info@institution.edu",
+        "phone": "+971 4 000 0000",
+        "website": "https://institution.edu",
+        "address": "Dubai, UAE"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Al Noor Institute of Islamic Finance",
+      "country": "India",
+      "city": "Mumbai",
+      "type": "Training Center",
+      "field": [
+        "Islamic Finance",
+        "Arabic Language"
+      ],
+      "mode": [
+        "Online",
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "01 Jan 2027 – 31 Dec 2028",
+      "affiliationDate": "2024-01-15",
+      "giflriId": "GIF-IN-000142",
+      "programsCount": 4,
+      "students": 245,
+      "approvedPrograms": [
+        "Diploma in Islamic Finance",
+        "Arabic Level A1–B2 Proficiency",
+        "Advanced Sukuk Structuring",
+        "Takaful Management Principles"
+      ],
+      "qualityStatus": "Annual compliance submitted",
+      "quality": {
+        "lastReview": "2027-01-10",
+        "score": 92,
+        "compliance": "Submitted",
+        "observations": 2,
+        "scorecard": [
+          {
+            "area": "Curriculum Rigor",
+            "score": 94,
+            "trend": "up"
+          },
+          {
+            "area": "Faculty Credentials",
+            "score": 90,
+            "trend": "stable"
+          },
+          {
+            "area": "Student Assessments",
+            "score": 92,
+            "trend": "up"
+          }
+        ]
+      },
+      "contact": {
+        "email": "admissions@alnoor-finance.edu",
+        "phone": "+91 22 2456 7890",
+        "website": "https://alnoor-finance.edu",
+        "address": "Bandra Kurla Complex, Mumbai, India"
+      },
+      "qrCode": "GIF-IN-000142"
+    },
+    {
+      "id": "2",
+      "name": "Global Finance Academy",
+      "country": "UAE",
+      "city": "Dubai",
+      "type": "University",
+      "field": [
+        "Islamic Finance",
+        "FinTech",
+        "Shariah Governance"
+      ],
+      "mode": [
+        "On-Campus",
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "15 Mar 2026 – 14 Mar 2029",
+      "affiliationDate": "2023-03-15",
+      "giflriId": "GIF-AE-000184",
+      "programsCount": 8,
+      "students": 1200,
+      "approvedPrograms": [
+        "Master of Science in Shariah Auditing",
+        "Professional Certificate in Takaful",
+        "Executive Islamic Fintech Masterclass",
+        "Shariah Governance Seminar"
+      ],
+      "qualityStatus": "Inspection successfully completed",
+      "quality": {
+        "lastReview": "2026-11-20",
+        "score": 96,
+        "compliance": "Submitted",
+        "observations": 0,
+        "scorecard": [
+          {
+            "area": "Academic Infrastructure",
+            "score": 98,
+            "trend": "up"
+          },
+          {
+            "area": "Research Output",
+            "score": 95,
+            "trend": "up"
+          }
+        ]
+      },
+      "contact": {
+        "email": "registrar@gfa-dubai.ac.ae",
+        "phone": "+971 4 398 7654",
+        "website": "https://gfa-dubai.ac.ae",
+        "address": "Dubai International Academic City, Block 12, Dubai, UAE"
+      },
+      "qrCode": "GIF-AE-000184"
+    },
+    {
+      "id": "3",
+      "name": "Language & Finance Centre",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "type": "Training Center",
+      "field": [
+        "Arabic Language",
+        "Islamic Finance"
+      ],
+      "mode": [
+        "Online",
+        "On-Campus",
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "01 Oct 2026 – 30 Sep 2028",
+      "affiliationDate": "2024-10-01",
+      "giflriId": "GIF-MY-000210",
+      "programsCount": 6,
+      "students": 580,
+      "approvedPrograms": [
+        "Arabic for Islamic Finance",
+        "Islamic Capital Markets Diploma",
+        "Linguistics & Terminology Studies"
+      ],
+      "qualityStatus": "Annual compliance submitted",
+      "contact": {
+        "email": "info@lfc-malaysia.edu.my",
+        "phone": "+60 3 2145 6789",
+        "website": "https://lfc-malaysia.edu.my",
+        "address": "Jalan Sultan Ismail, Kuala Lumpur, Malaysia"
+      },
+      "qrCode": "GIF-MY-000210"
+    },
+    {
+      "id": "4",
+      "name": "Islamic Banking Institute",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "type": "College",
+      "field": [
+        "Islamic Banking",
+        "Shariah Governance"
+      ],
+      "mode": [
+        "On-Campus"
+      ],
+      "status": "Active",
+      "validity": "01 Jan 2027 – 31 Dec 2029",
+      "affiliationDate": "2024-01-01",
+      "giflriId": "GIF-SA-000305",
+      "programsCount": 5,
+      "students": 890,
+      "approvedPrograms": [
+        "Advanced Diploma in Islamic Banking",
+        "Shariah Supervisory Board Practicum"
+      ],
+      "qualityStatus": "Accredited Tier-1 Status",
+      "qrCode": "GIF-SA-000305"
+    },
+    {
+      "id": "5",
+      "name": "Arabic Language Academy",
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "Language Academy",
+      "field": [
+        "Arabic Language",
+        "Classical Philology"
+      ],
+      "mode": [
+        "Online",
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "01 May 2026 – 30 Apr 2028",
+      "affiliationDate": "2023-05-01",
+      "giflriId": "GIF-EG-000412",
+      "programsCount": 3,
+      "students": 320,
+      "approvedPrograms": [
+        "Classical Arabic Syntax & Morphology",
+        "Bilingual Legal & Shariah Translation"
+      ],
+      "qualityStatus": "Audit cycles verified",
+      "qrCode": "GIF-EG-000412"
+    },
+    {
+      "id": "6",
+      "name": "Shariah Finance University",
+      "country": "Türkiye",
+      "city": "Istanbul",
+      "type": "University",
+      "field": [
+        "Islamic Economics",
+        "FinTech",
+        "Participation Banking"
+      ],
+      "mode": [
+        "On-Campus",
+        "Blended"
+      ],
+      "status": "Active",
+      "validity": "01 Sep 2026 – 31 Aug 2029",
+      "affiliationDate": "2023-09-01",
+      "giflriId": "GIF-TR-000520",
+      "programsCount": 12,
+      "students": 2100,
+      "approvedPrograms": [
+        "Doctorate in Islamic Macroeconomics",
+        "Participation Banking Management",
+        "Sukuk Structuring Specialist"
+      ],
+      "qualityStatus": "Excellence Distinction Awarded",
+      "qrCode": "GIF-TR-000520"
+    },
+    {
+      "id": "7",
+      "name": "Takaful Training Center",
+      "country": "Bahrain",
+      "city": "Manama",
+      "type": "Training Center",
+      "field": [
+        "Islamic Insurance",
+        "Risk Management"
+      ],
+      "mode": [
+        "Online"
+      ],
+      "status": "Active",
+      "validity": "01 Feb 2027 – 31 Jan 2029",
+      "affiliationDate": "2024-02-01",
+      "giflriId": "GIF-BH-000631",
+      "programsCount": 4,
+      "students": 180,
+      "approvedPrograms": [
+        "Certified Takaful Underwriter",
+        "Re-Takaful Regulatory Audits"
+      ],
+      "qualityStatus": "Inspection approved",
+      "qrCode": "GIF-BH-000631"
+    },
+    {
+      "id": "8",
+      "name": "Islamic Economics Research Institute",
+      "country": "Qatar",
+      "city": "Doha",
+      "type": "Research Institute",
+      "field": [
+        "Research",
+        "Waqf Economics",
+        "Public Policy"
+      ],
+      "mode": [
+        "Blended"
+      ],
+      "status": "Pending",
+      "validity": "Under Renewal Review",
+      "affiliationDate": "2024-06-15",
+      "giflriId": "GIF-QA-000780",
+      "programsCount": 3,
+      "students": 120,
+      "approvedPrograms": [
+        "Doctoral Fellowship in Waqf Models",
+        "Policy Brief Development"
+      ],
+      "qualityStatus": "Renewal inspection scheduled",
+      "qrCode": "GIF-QA-000780"
+    }
+  ],
+  "programs": [
+    {
+      "id": "financeprog2",
+      "title": "Executive Diploma in Islamic FinTech",
+      "category": "Islamic Finance",
+      "level": "Executive Program",
+      "hours": "320 Hours",
+      "duration": "1 Year (Executive)",
+      "mode": "Online",
+      "language": "English",
+      "students": 30,
+      "capacity": 35,
+      "description": "Designed for financial technologists and Shariah scholars integrating smart contracts, tokenized Sukuk, and algorithmic compliance engines.",
+      "outcomes": [
+        "Develop smart contracts for Sukuk issuance on decentralized ledger sandboxes.",
+        "Evaluate Islamic compliant payment architectures and micro-transaction rules.",
+        "Analyze regional FinTech regulatory frameworks and central bank sandbox requirements."
+      ],
+      "prerequisites": "Minimum 3 years of executive or engineering experience in finance/tech sectors.",
+      "syllabus": [
+        {
+          "code": "FT-501",
+          "title": "Introduction to Blockchain & Smart Contracts",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "FT-505",
+          "title": "Decentralized Shariah Sandbox Architectures",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "FT-509",
+          "title": "Compliance Audits for Digital Payments & Cryptoassets",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog3",
+      "title": "Certified Takaful Underwriter (CTU)",
+      "category": "Islamic Finance",
+      "level": "Professional Certificate",
+      "hours": "450 Hours",
+      "duration": "1.5 Years",
+      "mode": "Blended",
+      "language": "English",
+      "students": 40,
+      "capacity": 45,
+      "description": "Comprehensive certification in mutual risk pooling models, solvency requirements, Tabarru funds management, and Re-Takaful treaties.",
+      "outcomes": [
+        "Model cooperative risk pooling reserves and surplus distribution systems.",
+        "Audit and verify Re-Takaful compliance frameworks and credit guidelines.",
+        "Structure Takaful insurance products for retail and corporate markets."
+      ],
+      "prerequisites": "Associate degree or professional experience in insurance, general actuarial, or finance.",
+      "syllabus": [
+        {
+          "code": "TK-401",
+          "title": "Principles of Mutual Risk Sharing",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "TK-405",
+          "title": "Solvency and Actuarial Models in Takaful",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "TK-410",
+          "title": "Re-Takaful Management and Regulatory Audits",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog4",
+      "title": "Postgraduate Sukuk Structuring Specialist",
+      "category": "Islamic Finance",
+      "level": "Diploma",
+      "hours": "540 Hours",
+      "duration": "2 Years",
+      "mode": "Blended",
+      "language": "English & Arabic",
+      "students": 35,
+      "capacity": 40,
+      "description": "In-depth structuring masterclasses covering Ijarah, Murabaha, Mudaraba, Wakala, and hybrid Green Sukuk frameworks for capital markets.",
+      "outcomes": [
+        "Structure sovereign and corporate Sukuks from asset selection to legal structuring.",
+        "Identify differences between asset-backed and asset-based debt arrangements.",
+        "Evaluate green compliance and environmental sustainability tags in Sukuk markets."
+      ],
+      "prerequisites": "Bachelor's degree in Finance or Mathematics; familiarity with bond markets.",
+      "syllabus": [
+        {
+          "code": "SK-601",
+          "title": "Sovereign Debt Capital Markets (Sukuk)",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "SK-605",
+          "title": "Asset Backing Jurisprudence & Legal Structures",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "SK-612",
+          "title": "Green & Sustainable Finance and Sukuk Audits",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "langprog1",
+      "title": "Arabic NLP & Corpus Engineering Diploma",
+      "category": "Arabic & Languages",
+      "level": "Diploma",
+      "hours": "620 Hours",
+      "duration": "2 Years",
+      "mode": "Online",
+      "language": "English & Arabic",
+      "students": 25,
+      "capacity": 30,
+      "description": "Bridging Semitic linguistics with contemporary natural language processing, morphological tagging, and automated Shariah text extraction.",
+      "outcomes": [
+        "Build annotated language corpora using modern machine translation pipelines.",
+        "Develop neural network NLP models customized for Arabic syntactic structures.",
+        "Formulate algorithms for Semitic morphological processing and dictionary curation."
+      ],
+      "prerequisites": "Bachelor's degree in Computer Science, Linguistics, or fluent Arabic language speaker.",
+      "syllabus": [
+        {
+          "code": "NL-601",
+          "title": "Morphological Algorithms in Semitic Languages",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "NL-605",
+          "title": "Arabic Dataset Annotation & Corpus Curation",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "NL-610",
+          "title": "Neural Networks & Deep Learning for Semitic NLP",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "langprog2",
+      "title": "Professional Bilingual Legal & Shariah Translation",
+      "category": "Arabic & Languages",
+      "level": "Professional Certificate",
+      "hours": "280 Hours",
+      "duration": "1 Year (Accredited)",
+      "mode": "Blended",
+      "language": "English & Arabic",
+      "students": 50,
+      "capacity": 60,
+      "description": "Accreditation program for certified translators specializing in GCC statutory laws, international commercial arbitration, and Islamic contracts.",
+      "outcomes": [
+        "Translate commercial contracts, sovereign treaties, and financial reports accurately.",
+        "Apply advanced legal terminology standardizations across GCC jurisdictions.",
+        "Execute official simultaneous translation and document certifications."
+      ],
+      "prerequisites": "Fluent bilingual capability in English and Arabic, verified by entrance test.",
+      "syllabus": [
+        {
+          "code": "LT-501",
+          "title": "Legal Terminology and Treaties Jurisprudence",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "LT-505",
+          "title": "Financial & Shariah Auditing Terminology Translation",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "LT-510",
+          "title": "Applied Translation Practicum & Case Studies",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "langprog3",
+      "title": "Classical Arabic Syntax & Morphology Pedagogy",
+      "category": "Arabic & Languages",
+      "level": "Advanced Diploma",
+      "hours": "420 Hours",
+      "duration": "1.5 Years",
+      "mode": "On-Campus",
+      "language": "Arabic",
+      "students": 40,
+      "capacity": 45,
+      "description": "Pedagogical training for university educators teaching Nahw (syntax), Sarf (morphology), and Balagha (rhetoric) to international students.",
+      "outcomes": [
+        "Instruct classical Arabic syntax (Nahw) and morphology (Sarf) using modern pedagogy.",
+        "Utilize standardized proficiency indicators to index student progress.",
+        "Author compliant Arabic curricula for schools, colleges, and training hubs."
+      ],
+      "prerequisites": "Degree in Arabic Studies or equivalent educational credentials.",
+      "syllabus": [
+        {
+          "code": "ED-401",
+          "title": "Pedagogy of Classical Arabic Grammars",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "ED-406",
+          "title": "Proficiency Testing and Linguistic Standards",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "ED-412",
+          "title": "Curriculum Design & Educational Audits",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "researchprog1",
+      "title": "Doctoral Fellowship in Peer Review & Shariah Integrity",
+      "category": "Research",
+      "level": "Doctorate",
+      "hours": "200 Hours",
+      "duration": "1 Year (Fellowship)",
+      "mode": "Blended",
+      "language": "English & Arabic",
+      "students": 20,
+      "capacity": 25,
+      "description": "Postdoctoral and faculty training for academic editors and referees managing high-impact Islamic finance and linguistics journals.",
+      "outcomes": [
+        "Administer double-blind peer review ethics across international journals.",
+        "Verify citation references and detect research plagiarism or policy deviations.",
+        "Evaluate regional regulatory proposals and Shariah compliance arguments."
+      ],
+      "prerequisites": "Doctoral degree or Master's with active research record in academic journals.",
+      "syllabus": [
+        {
+          "code": "RF-701",
+          "title": "Peer Review Integrity & Double-Blind Protocols",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "RF-705",
+          "title": "Advanced Shariah Regulatory Analysis",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "blue",
+      "status": "Active"
+    },
+    {
+      "id": "researchprog2",
+      "title": "Doctorate in Islamic Macroeconomics & Waqf Models",
+      "category": "Research",
+      "level": "Doctorate",
+      "hours": "Doctoral Research",
+      "duration": "3-4 Years (Full-Time)",
+      "mode": "On-Campus",
+      "language": "English & Arabic",
+      "students": 15,
+      "capacity": 15,
+      "description": "Terminal research degree investigating ethical wealth distribution, sovereign endowments (Waqf), and monetary policy alignments.",
+      "outcomes": [
+        "Publish original, peer-reviewed economic models targeting wealth distribution.",
+        "Formulate policy briefs aligning cooperative risk-sharing with national laws.",
+        "Investigate ethical models of wealth taxation, endowments (Waqf), and zakat."
+      ],
+      "prerequisites": "Master's degree in Economics, Finance, or Shariah, with research dissertation.",
+      "syllabus": [
+        {
+          "code": "DP-901",
+          "title": "Advanced Research Methodologies & Ethics",
+          "credits": "6 Credits"
+        },
+        {
+          "code": "DP-905",
+          "title": "Wealth Endowments (Waqf) & Economic Modeling",
+          "credits": "6 Credits"
+        },
+        {
+          "code": "DP-999",
+          "title": "Doctoral Dissertation & Academic Defenses",
+          "credits": "24 Credits"
+        }
+      ],
+      "color": "blue",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog5",
+      "title": "Certified Shariah Governance & Compliance Officer (CSGCO)",
+      "category": "Islamic Finance",
+      "level": "Professional Certificate",
+      "hours": "360 Hours",
+      "duration": "1 Year",
+      "mode": "Blended",
+      "language": "English & Arabic",
+      "students": 65,
+      "capacity": 70,
+      "description": "Executive qualification in corporate governance, Shariah Supervisory Board secretarial duties, internal audit reporting, and regulatory sanctions risk.",
+      "outcomes": [
+        "Implement AAOIFI and IFSB Shariah governance frameworks across financial institutions.",
+        "Supervise internal Shariah audit reviews and resolve non-compliance issues.",
+        "Draft standardized Shariah board resolutions and statutory public disclosures."
+      ],
+      "prerequisites": "Bachelor degree in Law, Shariah, Finance, or Accounting with 2+ years banking experience.",
+      "syllabus": [
+        {
+          "code": "SG-501",
+          "title": "Shariah Governance Frameworks & AAOIFI Standards",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "SG-505",
+          "title": "Internal Shariah Review & Audit Methodologies",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "SG-510",
+          "title": "Risk Management & Non-Compliance Mitigation",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog6",
+      "title": "Islamic ESG & Green Sukuk Capital Markets Masterclass",
+      "category": "Islamic Finance",
+      "level": "Executive Program",
+      "hours": "280 Hours",
+      "duration": "6 Months",
+      "mode": "Online",
+      "language": "English",
+      "students": 55,
+      "capacity": 60,
+      "description": "Comprehensive program uniting Islamic social finance with United Nations SDGs, renewable energy financing, sovereign Green Sukuk, and carbon credit tokenization.",
+      "outcomes": [
+        "Structure sovereign and corporate Green Sukuk aligned with ICMA Green Bond Principles.",
+        "Audit ESG indicators and impact metrics within Islamic portfolio investments.",
+        "Design blended finance models leveraging Waqf endowments for climate resilience."
+      ],
+      "prerequisites": "Professional experience in capital markets, treasury, asset management, or sustainability policy.",
+      "syllabus": [
+        {
+          "code": "ESG-601",
+          "title": "Islamic Social Finance & UN Sustainable Development Goals",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "ESG-605",
+          "title": "Green & Sustainability Sukuk Structuring Practicum",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "ESG-610",
+          "title": "Carbon Markets & Impact Reporting Verification",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog7",
+      "title": "Diploma in Fiqh al-Muamalat & Islamic Commercial Law",
+      "category": "Islamic Finance",
+      "level": "Diploma",
+      "hours": "480 Hours",
+      "duration": "1.5 Years",
+      "mode": "On-Campus",
+      "language": "Arabic & English",
+      "students": 42,
+      "capacity": 50,
+      "description": "Rigorous foundational and applied study of classical Islamic jurisprudence of transactions (Fiqh al-Muamalat), legal maxims (Qawaid Fiqhiyyah), and modern hybrid contracts.",
+      "outcomes": [
+        "Master classical contractual archetypes: Murabaha, Ijarah, Salam, Istisna, and Mudaraba.",
+        "Apply legal maxims to evaluate contemporary structured financial innovations.",
+        "Draft legally enforceable bilingual Shariah-compliant master agreements."
+      ],
+      "prerequisites": "Undergraduate degree with demonstrated interest in Islamic law or commercial jurisprudence.",
+      "syllabus": [
+        {
+          "code": "FM-401",
+          "title": "Classical Jurisprudence of Contracts & Obligations",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "FM-405",
+          "title": "Islamic Legal Maxims in Modern Finance",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "FM-412",
+          "title": "Contemporary Contractual Engineering & Case Studies",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "financeprog8",
+      "title": "Certified Islamic Wealth Management & Waqf Specialist",
+      "category": "Islamic Finance",
+      "level": "Professional Certificate",
+      "hours": "320 Hours",
+      "duration": "1 Year",
+      "mode": "Blended",
+      "language": "English",
+      "students": 38,
+      "capacity": 45,
+      "description": "Specialized certification in high-net-worth Shariah estate planning, cash Waqf governance, family office management, and halal asset allocation strategies.",
+      "outcomes": [
+        "Formulate Shariah-compliant estate distribution, wills (Wasiyyah), and trust structures.",
+        "Design sustainable cash Waqf models for education and healthcare institutions.",
+        "Construct diversified global halal equity and real estate portfolios."
+      ],
+      "prerequisites": "Professional background in financial advisory, wealth planning, or legal services.",
+      "syllabus": [
+        {
+          "code": "WM-501",
+          "title": "Islamic Estate Planning & Inheritance Jurisprudence (Faraid)",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "WM-505",
+          "title": "Waqf Governance & Philanthropic Fund Structuring",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "WM-510",
+          "title": "Halal Asset Allocation & Family Office Strategy",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "fintechprog1",
+      "title": "Decentralized Shariah Smart Contracts & Tokenomics",
+      "category": "Shariah FinTech",
+      "level": "Executive Program",
+      "hours": "300 Hours",
+      "duration": "8 Months",
+      "mode": "Online",
+      "language": "English",
+      "students": 48,
+      "capacity": 55,
+      "description": "Engineering blockchain smart contracts that mathematically enforce Shariah covenants, eliminate Gharar (uncertainty) and Riba (usury), and enable asset-backed tokenization.",
+      "outcomes": [
+        "Write and audit Solidity/Rust smart contracts with embedded Shariah compliance logic.",
+        "Design asset-backed real-world asset (RWA) tokenization protocols for Sukuk.",
+        "Evaluate automated market makers (AMMs) and decentralized lending protocols under Fiqh."
+      ],
+      "prerequisites": "Familiarity with programming (JavaScript/Solidity/Python) or financial engineering.",
+      "syllabus": [
+        {
+          "code": "BC-501",
+          "title": "Blockchain Fundamentals & Shariah Compatibility",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "BC-505",
+          "title": "Smart Contract Development for Asset-Backed Finance",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "BC-510",
+          "title": "Tokenomics Auditing & Regulatory Sandboxes",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "fintechprog2",
+      "title": "AI & Algorithmic Risk Modeling in Islamic Banking",
+      "category": "Shariah FinTech",
+      "level": "Diploma",
+      "hours": "400 Hours",
+      "duration": "1 Year",
+      "mode": "Blended",
+      "language": "English",
+      "students": 34,
+      "capacity": 40,
+      "description": "Leveraging machine learning algorithms for Islamic credit scoring, automated Shariah equity screening, and predictive liquidity risk management.",
+      "outcomes": [
+        "Deploy machine learning models for credit underwriting without interest-based compounding.",
+        "Automate real-time Shariah screening on global equity indices (AAOIFI/Dow Jones metrics).",
+        "Build predictive cash-flow forecasting models for Islamic participation banks."
+      ],
+      "prerequisites": "Quantitative background in Statistics, Data Science, or Financial Mathematics.",
+      "syllabus": [
+        {
+          "code": "AI-601",
+          "title": "Machine Learning for Financial Risk Analysis",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "AI-605",
+          "title": "Automated Equity Screening & Shariah Algorithms",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "AI-612",
+          "title": "Predictive Modeling for Asset-Liability Management",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "emerald",
+      "status": "Active"
+    },
+    {
+      "id": "langprog4",
+      "title": "CEFR-Arabiyya Standardized Language Assessment Specialist",
+      "category": "Arabic & Languages",
+      "level": "Advanced Diploma",
+      "hours": "350 Hours",
+      "duration": "1 Year",
+      "mode": "Online",
+      "language": "Arabic",
+      "students": 40,
+      "capacity": 50,
+      "description": "Training assessment designers to author, calibrate, and psychometrically validate standardized Arabic proficiency tests across A1 to C2 mastery levels.",
+      "outcomes": [
+        "Construct standardized Arabic listening, reading, writing, and speaking exam items.",
+        "Calibrate item difficulty using Item Response Theory (IRT) psychometrics.",
+        "Train oral proficiency interviewers according to international CEFR benchmarks."
+      ],
+      "prerequisites": "Degree in Arabic Linguistics, Education, or Applied Testing.",
+      "syllabus": [
+        {
+          "code": "LA-501",
+          "title": "Language Testing Theory & CEFR-Arabiyya Framework",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "LA-505",
+          "title": "Item Authoring & Psychometric Validation",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "LA-510",
+          "title": "Assessment Administration & Examiner Accreditation",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "langprog5",
+      "title": "Diplomatic & International Media Arabic Certification",
+      "category": "Arabic & Languages",
+      "level": "Professional Certificate",
+      "hours": "260 Hours",
+      "duration": "6 Months",
+      "mode": "Blended",
+      "language": "Arabic & English",
+      "students": 52,
+      "capacity": 60,
+      "description": "High-level training in official diplomatic rhetoric, press conference interpretation, multilateral treaty drafting, and political analysis in Modern Standard Arabic.",
+      "outcomes": [
+        "Deliver spontaneous press briefings and political commentary in formal Arabic.",
+        "Draft bilateral treaties, memoranda of understanding (MoUs), and official communiqués.",
+        "Analyze contemporary Arabic media discourse and international geopolitics."
+      ],
+      "prerequisites": "Advanced Arabic proficiency (minimum B2/C1 equivalent) or diplomatic service experience.",
+      "syllabus": [
+        {
+          "code": "DA-401",
+          "title": "Diplomatic Rhetoric & Inter-State Communications",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "DA-405",
+          "title": "International Treaty Drafting & Terminology",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "DA-410",
+          "title": "Broadcast Media Analysis & Press Practicum",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "langprog6",
+      "title": "Classical Arabic Rhetoric (Balagha) & Exegesis Fellowship",
+      "category": "Arabic & Languages",
+      "level": "Advanced Diploma",
+      "hours": "460 Hours",
+      "duration": "1.5 Years",
+      "mode": "On-Campus",
+      "language": "Arabic",
+      "students": 28,
+      "capacity": 35,
+      "description": "Scholarly immersion in classical Balagha science: Ilm al-Maani (meanings), Ilm al-Bayan (figures of speech), and Ilm al-Badi (embellishments), paired with Quranic and classical poetry critique.",
+      "outcomes": [
+        "Deconstruct classical literary texts with profound semantic and stylistic rigor.",
+        "Analyze rhetorical subtleties in classical legal and Shariah texts.",
+        "Produce scholarly publications on Semitic literary aesthetics and stylistic history."
+      ],
+      "prerequisites": "Strong foundation in classical Nahw and Sarf grammars.",
+      "syllabus": [
+        {
+          "code": "BL-601",
+          "title": "Foundations of Ilm al-Maani & Sentence Structure",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "BL-605",
+          "title": "Ilm al-Bayan: Metaphor, Simile & Metonymy",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "BL-610",
+          "title": "Applied Rhetorical Exegesis & Literary Criticism",
+          "credits": "4 Credits"
+        }
+      ],
+      "color": "gold",
+      "status": "Active"
+    },
+    {
+      "id": "researchprog3",
+      "title": "Certified Halal Supply Chain & Quality Assurance Lead Auditor",
+      "category": "Research",
+      "level": "Professional Certificate",
+      "hours": "300 Hours",
+      "duration": "9 Months",
+      "mode": "Blended",
+      "language": "English",
+      "students": 46,
+      "capacity": 50,
+      "description": "Lead auditor training for global halal food, pharmaceuticals, and cosmetic supply chains adhering to SMIIC and GSO international standards.",
+      "outcomes": [
+        "Conduct comprehensive on-site halal audits for international manufacturing facilities.",
+        "Inspect cold-chain logistics, segregation protocols, and halal verification points.",
+        "Author formal audit inspection reports for national accreditation bodies."
+      ],
+      "prerequisites": "Degree in Food Science, Chemistry, Industrial Engineering, or Quality Management.",
+      "syllabus": [
+        {
+          "code": "HL-501",
+          "title": "Global Halal Standards (SMIIC/GSO) & Certification Protocols",
+          "credits": "3 Credits"
+        },
+        {
+          "code": "HL-505",
+          "title": "Supply Chain Auditing & Critical Control Points (HACCP)",
+          "credits": "4 Credits"
+        },
+        {
+          "code": "HL-510",
+          "title": "Laboratory Testing & Contamination Detection Techniques",
+          "credits": "3 Credits"
+        }
+      ],
+      "color": "blue",
+      "status": "Active"
+    }
+  ],
+  "applications": [
+    {
+      "id": "GIF-UAE-2027-00184",
+      "institutionName": "Emirates Islamic Banking Academy",
+      "country": "UAE",
+      "city": "Dubai",
+      "contactEmail": "rector@eiba.ae",
+      "contactPerson": "Dr. Tariq Al-Mansoor",
+      "status": "Inspection",
+      "currentStageIndex": 3,
+      "currentStage": "Inspection",
+      "progress": 58,
+      "health": 94,
+      "submittedDate": "2027-08-22",
+      "inspectionDate": "2027-09-18",
+      "assignedReviewer": "Quality Audit Team 04",
+      "programRequested": "Diploma in Islamic Banking & FinTech",
+      "deliveryMode": "Blended",
+      "learningHours": "140 Hours",
+      "documents": [
+        {
+          "id": "d1",
+          "name": "Legal_Registration_Licence_2027.pdf",
+          "type": "PDF",
+          "size": 2400000,
+          "uploadedAt": "2027-08-22",
+          "status": "Verified"
+        },
+        {
+          "id": "d2",
+          "name": "Curriculum_Mapping_Matrix_v2.docx",
+          "type": "DOCX",
+          "size": 1200000,
+          "uploadedAt": "2027-08-25",
+          "status": "Verified"
+        },
+        {
+          "id": "d3",
+          "name": "Faculty_CPD_Register.pdf",
+          "type": "PDF",
+          "size": 850000,
+          "uploadedAt": "2027-08-28",
+          "status": "Pending"
+        }
+      ],
+      "stages": [
+        {
+          "id": "s1",
+          "label": "Submitted",
+          "status": "completed",
+          "date": "22 Aug 2027"
+        },
+        {
+          "id": "s2",
+          "label": "Documents Review",
+          "status": "completed",
+          "date": "25 Aug 2027"
+        },
+        {
+          "id": "s3",
+          "label": "Academic Review",
+          "status": "completed",
+          "date": "05 Sep 2027"
+        },
+        {
+          "id": "s4",
+          "label": "Inspection",
+          "status": "active",
+          "date": "18 Sep 2027"
+        },
+        {
+          "id": "s5",
+          "label": "Committee",
+          "status": "pending"
+        },
+        {
+          "id": "s6",
+          "label": "Agreement",
+          "status": "pending"
+        },
+        {
+          "id": "s7",
+          "label": "Listed",
+          "status": "pending"
+        }
+      ],
+      "messages": [
+        {
+          "id": "m1",
+          "sender": "System",
+          "role": "System",
+          "content": "Application successfully registered and assigned ID GIF-UAE-2027-00184.",
+          "timestamp": "2027-08-22 10:00"
+        },
+        {
+          "id": "m2",
+          "sender": "Quality Team 04",
+          "role": "Reviewer",
+          "content": "Academic curriculum verified. Physical site inspection confirmed for September 18.",
+          "timestamp": "2027-09-06 14:30"
+        }
+      ],
+      "reviewerNotes": "Excellent infrastructure and accredited faculty. Pending final CPD log verification during physical audit."
+    },
+    {
+      "id": "GIF-SA-2027-00192",
+      "institutionName": "Riyadh Shariah Economics Institute",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "contactEmail": "contact@rsei.edu.sa",
+      "contactPerson": "Prof. Faisal Al-Ghamdi",
+      "status": "Under Review",
+      "currentStageIndex": 4,
+      "currentStage": "Committee",
+      "progress": 75,
+      "health": 98,
+      "submittedDate": "2027-07-10",
+      "assignedReviewer": "Executive Affiliation Board",
+      "programRequested": "Executive Master in Shariah Governance",
+      "deliveryMode": "On-Campus",
+      "learningHours": "360 Hours",
+      "documents": [
+        {
+          "id": "d1",
+          "name": "Institutional_Charter_KSA.pdf",
+          "type": "PDF",
+          "size": 3100000,
+          "uploadedAt": "2027-07-10",
+          "status": "Verified"
+        },
+        {
+          "id": "d2",
+          "name": "Audit_Report_Satisfactory.pdf",
+          "type": "PDF",
+          "size": 1500000,
+          "uploadedAt": "2027-08-15",
+          "status": "Verified"
+        }
+      ],
+      "stages": [
+        {
+          "id": "s1",
+          "label": "Submitted",
+          "status": "completed",
+          "date": "10 Jul 2027"
+        },
+        {
+          "id": "s2",
+          "label": "Documents Review",
+          "status": "completed",
+          "date": "18 Jul 2027"
+        },
+        {
+          "id": "s3",
+          "label": "Academic Review",
+          "status": "completed",
+          "date": "01 Aug 2027"
+        },
+        {
+          "id": "s4",
+          "label": "Inspection",
+          "status": "completed",
+          "date": "20 Aug 2027"
+        },
+        {
+          "id": "s5",
+          "label": "Committee",
+          "status": "active",
+          "date": "In Review"
+        },
+        {
+          "id": "s6",
+          "label": "Agreement",
+          "status": "pending"
+        },
+        {
+          "id": "s7",
+          "label": "Listed",
+          "status": "pending"
+        }
+      ],
+      "messages": [
+        {
+          "id": "m1",
+          "sender": "Executive Affiliation Board",
+          "role": "Reviewer",
+          "content": "Inspection report passed with 98% score. Final committee voting in progress.",
+          "timestamp": "2027-08-25 11:00"
+        }
+      ],
+      "reviewerNotes": "Recommended for unconditional 3-year Tier-1 affiliation."
+    },
+    {
+      "id": "GIF-MY-2027-00205",
+      "institutionName": "ASEAN Islamic FinTech Academy",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "contactEmail": "admin@asean-fintech.my",
+      "contactPerson": "Zulkipli bin Hassan",
+      "status": "Approved",
+      "currentStageIndex": 6,
+      "currentStage": "Approved & Accredited",
+      "progress": 100,
+      "health": 99,
+      "submittedDate": "2027-05-14",
+      "assignedReviewer": "Directorate of Global Relations",
+      "programRequested": "Certified Islamic Smart Contracts Developer",
+      "deliveryMode": "Online",
+      "learningHours": "180 Hours",
+      "documents": [
+        {
+          "id": "d1",
+          "name": "Malaysia_MOHE_Accreditation.pdf",
+          "type": "PDF",
+          "size": 1900000,
+          "uploadedAt": "2027-05-14",
+          "status": "Verified"
+        }
+      ],
+      "stages": [
+        {
+          "id": "s1",
+          "label": "Submitted",
+          "status": "completed",
+          "date": "14 May 2027"
+        },
+        {
+          "id": "s2",
+          "label": "Documents Review",
+          "status": "completed",
+          "date": "22 May 2027"
+        },
+        {
+          "id": "s3",
+          "label": "Academic Review",
+          "status": "completed",
+          "date": "10 Jun 2027"
+        },
+        {
+          "id": "s4",
+          "label": "Inspection",
+          "status": "completed",
+          "date": "05 Jul 2027"
+        },
+        {
+          "id": "s5",
+          "label": "Committee",
+          "status": "completed",
+          "date": "20 Jul 2027"
+        },
+        {
+          "id": "s6",
+          "label": "Agreement",
+          "status": "completed",
+          "date": "01 Aug 2027"
+        },
+        {
+          "id": "s7",
+          "label": "Listed",
+          "status": "completed",
+          "date": "15 Aug 2027"
+        }
+      ],
+      "messages": [
+        {
+          "id": "m1",
+          "sender": "System",
+          "role": "System",
+          "content": "Affiliation Agreement fully signed. Institution listed in Global Directory.",
+          "timestamp": "2027-08-15 09:00"
+        }
+      ],
+      "reviewerNotes": "Official GIFLRI affiliation certificate issued and registered under GIF-MY-000210."
+    },
+    {
+      "id": "GIF-IN-2027-00218",
+      "institutionName": "Deccan Shariah Economics College",
+      "country": "India",
+      "city": "Hyderabad",
+      "contactEmail": "contact@deccanshariah.edu.in",
+      "contactPerson": "Mohammed Imran Khan",
+      "status": "Approved",
+      "currentStageIndex": 1,
+      "currentStage": "Approved & Accredited",
+      "progress": 30,
+      "health": 88,
+      "submittedDate": "2027-08-30",
+      "assignedReviewer": "Quality Team 02",
+      "programRequested": "Certificate in Islamic Microfinance",
+      "deliveryMode": "Blended",
+      "learningHours": "90 Hours",
+      "documents": [
+        {
+          "id": "d1",
+          "name": "University_Affiliation_Deccan.pdf",
+          "type": "PDF",
+          "size": 1800000,
+          "uploadedAt": "2027-08-30",
+          "status": "Pending"
+        }
+      ],
+      "stages": [
+        {
+          "id": "s1",
+          "label": "Submitted",
+          "status": "completed",
+          "date": "30 Aug 2027"
+        },
+        {
+          "id": "s2",
+          "label": "Documents Review",
+          "status": "active",
+          "date": "02 Sep 2027"
+        },
+        {
+          "id": "s3",
+          "label": "Academic Review",
+          "status": "pending"
+        },
+        {
+          "id": "s4",
+          "label": "Inspection",
+          "status": "pending"
+        },
+        {
+          "id": "s5",
+          "label": "Committee",
+          "status": "pending"
+        },
+        {
+          "id": "s6",
+          "label": "Agreement",
+          "status": "pending"
+        },
+        {
+          "id": "s7",
+          "label": "Listed",
+          "status": "pending"
+        }
+      ],
+      "messages": []
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Global Islamic Finance Conference 2027 (GIFC)",
+      "date": "2027-10-15",
+      "endDate": "2027-10-17",
+      "city": "Dubai",
+      "country": "UAE",
+      "theme": "Decentralized Shariah Governance and Green Sukuk Horizons",
+      "speakers": 45,
+      "attendeesCount": 661,
+      "status": "Upcoming",
+      "type": "Conference",
+      "image": "/events/gifc-2027.jpg",
+      "desc": "Annual flagship symposium gathering central bank governors, leading Shariah jurists, and digital asset architects.",
+      "agenda": [
+        {
+          "time": "09:00",
+          "title": "Opening Plenary: Global Shariah Harmonization",
+          "speaker": "Dr. Ahmed Al-Rashid",
+          "type": "Keynote"
+        },
+        {
+          "time": "10:30",
+          "title": "Panel: Next-Generation Sukuk Tokenization",
+          "speaker": "Panel Discussion",
+          "type": "Panel"
+        },
+        {
+          "time": "12:00",
+          "title": "Executive Networking Luncheon",
+          "speaker": "—",
+          "type": "Break"
+        },
+        {
+          "time": "14:00",
+          "title": "Workshop: Solvency II & Takaful Resilience",
+          "speaker": "Prof. Hassan Ibrahim",
+          "type": "Workshop"
+        }
+      ],
+      "speakersList": [
+        {
+          "name": "Dr. Ahmed Al-Rashid",
+          "role": "Director General, GIFLRI",
+          "country": "UAE"
+        },
+        {
+          "name": "Prof. Fatima Zahra",
+          "role": "Head of Shariah Analytics",
+          "country": "Saudi Arabia"
+        },
+        {
+          "name": "Dr. Zulkifli Hassan",
+          "role": "FinTech Advisor",
+          "country": "Malaysia"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Arabic Language & NLP AI Summit 2027",
+      "date": "2027-11-22",
+      "endDate": "2027-11-24",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "theme": "Large Language Models for Classical Arabic and Fiqh Reasoning",
+      "speakers": 32,
+      "attendeesCount": 422,
+      "status": "Upcoming",
+      "type": "Summit",
+      "image": "/events/arabic-summit.jpg",
+      "desc": "Leading scientists and computational linguists addressing Semitic transformer models, morphological syntax, and legal corpora."
+    },
+    {
+      "id": 3,
+      "title": "ASEAN Islamic FinTech Hackathon 2027",
+      "date": "2027-12-10",
+      "endDate": "2027-12-12",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "theme": "Algorithmic Shariah Auditing & Micro-Takaful dApps",
+      "speakers": 28,
+      "attendeesCount": 300,
+      "status": "Open for Registration",
+      "type": "Hackathon",
+      "image": "/events/fintech-hackathon.jpg",
+      "desc": "48-hour global challenge for developers, economists, and students building verified Islamic financial technologies."
+    },
+    {
+      "id": 4,
+      "title": "International Takaful & Cooperative Risk Forum",
+      "date": "2028-01-18",
+      "endDate": "2028-01-19",
+      "city": "Manama",
+      "country": "Bahrain",
+      "theme": "Mutualized Capital Resilience & Climate Risk Protection",
+      "speakers": 22,
+      "attendeesCount": 210,
+      "status": "Upcoming",
+      "type": "Forum",
+      "image": "/events/takaful-forum.jpg",
+      "desc": "Specialized roundtable examining regulatory solvency, Tabarru surplus distribution, and reinsurance integration."
+    },
+    {
+      "id": 5,
+      "title": "Annual Research Symposium on Islamic Economics",
+      "date": "2028-03-05",
+      "endDate": "2028-03-07",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "theme": "Ethical Wealth Redistribution & Sovereign Waqf Funds",
+      "speakers": 55,
+      "attendeesCount": 527,
+      "status": "Call for Papers Open",
+      "type": "Conference",
+      "image": "/events/annual-research.jpg",
+      "desc": "Call for papers open for researchers, doctoral fellows, and policy makers worldwide."
+    },
+    {
+      "id": 6,
+      "title": "Cairo Classical Philology & Translation Colloquium",
+      "date": "2026-11-15",
+      "endDate": "2026-11-17",
+      "city": "Cairo",
+      "country": "Egypt",
+      "theme": "Historical Lexicography & Statutory Terminology Standardizations",
+      "speakers": 38,
+      "attendeesCount": 380,
+      "status": "Completed",
+      "type": "Conference",
+      "image": "/events/past-cairo.jpg",
+      "desc": "Deliberation of standard Arabic translation protocols for bilateral international agreements."
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "certId": "CERT-2027-88934",
+      "studentName": "Mohammed Abdullah Al-Hassan",
+      "studentEmail": "m.alhassan@alnoor.edu",
+      "program": "Diploma in Islamic Finance",
+      "institution": "Al Noor Institute of Islamic Finance",
+      "institutionId": "GIF-IN-000142",
+      "issueDate": "15 Jul 2027",
+      "validity": "Permanent / Verifiable",
+      "grade": "Distinction (94%)",
+      "status": "Verified",
+      "verificationHash": "0x8f7a1b4c92e105d67e89ab34ef201c89"
+    },
+    {
+      "id": "cert-2",
+      "certId": "CERT-2027-90142",
+      "studentName": "Fatima Noor Al-Sabah",
+      "studentEmail": "fatima.sabah@gfa-dubai.ac.ae",
+      "program": "Master of Science in Shariah Auditing",
+      "institution": "Global Finance Academy",
+      "institutionId": "GIF-AE-000184",
+      "issueDate": "20 Aug 2027",
+      "validity": "Permanent / Verifiable",
+      "grade": "High Distinction (97%)",
+      "status": "Verified",
+      "verificationHash": "0x3c2a9d8e7b104f65ab89cd12ef902a77"
+    },
+    {
+      "id": "cert-3",
+      "certId": "CERT-2027-91055",
+      "studentName": "Zayd Ibrahim Al-Khatib",
+      "studentEmail": "zayd.khatib@lfc.edu.my",
+      "program": "Executive Diploma in Islamic FinTech",
+      "institution": "Language & Finance Centre",
+      "institutionId": "GIF-MY-000210",
+      "issueDate": "01 Sep 2027",
+      "validity": "Permanent / Verifiable",
+      "grade": "First Class Honors (91%)",
+      "status": "Verified",
+      "verificationHash": "0x5e1b7c8a4d9203f6bc90de23ef451a88"
+    },
+    {
+      "id": "cert-4",
+      "certId": "CERT-2026-77312",
+      "studentName": "Aisha Maryam Siddiqui",
+      "studentEmail": "aisha.siddiqui@alnoor.edu",
+      "program": "Arabic Level A1–B2 Proficiency",
+      "institution": "Al Noor Institute of Islamic Finance",
+      "institutionId": "GIF-IN-000142",
+      "issueDate": "10 Nov 2026",
+      "validity": "Permanent / Verifiable",
+      "grade": "Pass with Merit",
+      "status": "Verified",
+      "verificationHash": "0x2d9a6c7b3e8104f5ca89ab01ef672b99"
+    },
+    {
+      "id": "cert-5",
+      "certId": "CERT-2026-66420",
+      "studentName": "Rashid Omar Al-Nuaimi",
+      "studentEmail": "rashid.nuaimi@gfa.ae",
+      "program": "Certified Takaful Underwriter",
+      "institution": "Global Finance Academy",
+      "institutionId": "GIF-AE-000184",
+      "issueDate": "12 Dec 2026",
+      "validity": "Permanent / Verifiable",
+      "grade": "Distinction (95%)",
+      "status": "Verified",
+      "verificationHash": "0x7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d"
+    }
+  ],
+  "researchPapers": [
+    {
+      "id": "rp-1",
+      "title": "DeFi Smart Contracts and Shariah Fiqh Alignments: Algorithmic Verification Protocols",
+      "authors": "Dr. Ahmed Al-Rashid, Prof. Fatima Zahra, Dr. Zulkifli Hassan",
+      "journal": "GIFLRI Journal of Islamic FinTech & Law",
+      "year": 2027,
+      "theme": "Decentralized Finance & Shariah Law",
+      "abstract": "This paper establishes formal verification methods for evaluating tokenized debt instruments (Sukuk) against classical Fiqh Al-Muamalat prohibitions of Riba and Gharar on EVM-compatible sandboxes.",
+      "doi": "10.5524/giflri.2027.0184",
+      "downloads": 1420,
+      "citations": 34,
+      "category": "FinTech"
+    },
+    {
+      "id": "rp-2",
+      "title": "Computational Grammar Processing Models for Classical Arabic Lexicons",
+      "authors": "Prof. Fatima Zahra, Dr. Mahmoud Al-Sayed",
+      "journal": "International Journal of Semitic Linguistics & NLP",
+      "year": 2027,
+      "theme": "Natural Language Processing & Linguistics",
+      "abstract": "A novel neural morphological parsing framework trained on 14 million words of classical Arabic jurisprudence texts, achieving 98.4% root-and-pattern tagging accuracy.",
+      "doi": "10.5524/giflri.2027.0215",
+      "downloads": 980,
+      "citations": 21,
+      "category": "Arabic NLP"
+    },
+    {
+      "id": "rp-3",
+      "title": "Takaful Risk Management Under Solvency II Equivalency and Mutualized Reserves",
+      "authors": "Prof. Omar Hassan, Dr. Tariq Al-Mansoor",
+      "journal": "Global Review of Islamic Insurance & Actuarial Sciences",
+      "year": 2026,
+      "theme": "Risk Management & Actuarial Studies",
+      "abstract": "Assessing the capital adequacy of Tabarru pools when subjected to European Solvency II stress tests, proposing dynamic risk-adjusted surplus distribution algorithms.",
+      "doi": "10.5524/giflri.2026.0402",
+      "downloads": 2310,
+      "citations": 58,
+      "category": "Takaful"
+    },
+    {
+      "id": "rp-4",
+      "title": "Green Sukuk for Renewable Infrastructure: Structuring Asset-Backed Instruments in GCC",
+      "authors": "Dr. Tariq Al-Mansoor, Aisha Malik",
+      "journal": "Journal of Sustainable Islamic Capital Markets",
+      "year": 2026,
+      "theme": "Sustainable Finance",
+      "abstract": "Empirical analysis of 18 green Sukuk issuances in the UAE and Saudi Arabia, illustrating compliance with both AAOIFI standards and ICMA Green Bond Principles.",
+      "doi": "10.5524/giflri.2026.0519",
+      "downloads": 1890,
+      "citations": 42,
+      "category": "Capital Markets"
+    }
+  ],
+  "journals": [
+    {
+      "id": "j-1",
+      "title": "GIFLRI Journal of Islamic FinTech & Law",
+      "issn": "2789-4412",
+      "frequency": "Quarterly",
+      "editorInChief": "Dr. Ahmed Al-Rashid",
+      "currentIssue": "Vol. 5, Issue 2 (Summer 2027)",
+      "articlesCount": 48
+    },
+    {
+      "id": "j-2",
+      "title": "International Journal of Semitic Linguistics & NLP",
+      "issn": "2789-5520",
+      "frequency": "Bi-Annual",
+      "editorInChief": "Prof. Fatima Zahra",
+      "currentIssue": "Vol. 4, Issue 1 (Spring 2027)",
+      "articlesCount": 32
+    },
+    {
+      "id": "j-3",
+      "title": "Global Review of Islamic Insurance & Actuarial Sciences",
+      "issn": "2789-6638",
+      "frequency": "Bi-Annual",
+      "editorInChief": "Prof. Omar Hassan",
+      "currentIssue": "Vol. 6, Issue 1 (Spring 2027)",
+      "articlesCount": 36
+    },
+    {
+      "id": "j-4",
+      "title": "Journal of Sustainable Islamic Capital Markets",
+      "issn": "2789-7744",
+      "frequency": "Quarterly",
+      "editorInChief": "Dr. Tariq Al-Mansoor",
+      "currentIssue": "Vol. 3, Issue 3 (Autumn 2027)",
+      "articlesCount": 40
+    }
+  ],
+  "experts": [
+    {
+      "id": "exp-1",
+      "name": "Dr. Ahmed Al-Rashid",
+      "role": "Director General & Senior Shariah Advisor",
+      "country": "UAE",
+      "city": "Dubai",
+      "fields": [
+        "Shariah Governance",
+        "Sukuk Structuring",
+        "Banking Law"
+      ],
+      "publications": 42,
+      "biography": "Over 25 years advising central banks, multilateral Islamic development institutions, and regulatory sandboxes across the MENA region.",
+      "qualifications": [
+        "Ph.D. in Islamic Jurisprudence (Al-Azhar)",
+        "M.Sc. in Banking Law (LSE)"
+      ],
+      "giflriRole": "Board of Governors Chairman",
+      "email": "a.alrashid@giflri.org"
+    },
+    {
+      "id": "exp-2",
+      "name": "Prof. Fatima Zahra",
+      "role": "Head of Arabic NLP & Linguistic Analytics",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "fields": [
+        "Arabic Computational Linguistics",
+        "Corpus Engineering",
+        "Semitic NLP"
+      ],
+      "publications": 38,
+      "biography": "Leading expert in Semitic deep learning models, syntactic parsing, and digital manuscript preservation.",
+      "qualifications": [
+        "Ph.D. in Computational Linguistics (Cambridge)",
+        "B.A. in Classical Arabic (KSU)"
+      ],
+      "giflriRole": "Director of Language Technology",
+      "email": "f.zahra@giflri.org"
+    },
+    {
+      "id": "exp-3",
+      "name": "Dr. Tariq Al-Mansoor",
+      "role": "Senior Fellow in Islamic Capital Markets",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "fields": [
+        "Green Sukuk",
+        "Asset Backing",
+        "Macroeconomics"
+      ],
+      "publications": 29,
+      "biography": "Author of landmark textbooks on cross-border debt instruments and sustainable Islamic finance frameworks.",
+      "qualifications": [
+        "Ph.D. in Financial Economics (Oxford)",
+        "CIPA (AAOIFI)"
+      ],
+      "giflriRole": "Head of Capital Markets Research",
+      "email": "t.mansoor@giflri.org"
+    },
+    {
+      "id": "exp-4",
+      "name": "Prof. Omar Hassan",
+      "role": "Chair of Actuarial Sciences & Takaful Governance",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "fields": [
+        "Takaful Risk Modeling",
+        "Solvency Regulations",
+        "Re-Takaful"
+      ],
+      "publications": 31,
+      "biography": "Pioneered mutual risk reserve algorithms currently utilized by over 30 regional insurance operators.",
+      "qualifications": [
+        "Fellow of Society of Actuaries (FSA)",
+        "Ph.D. in Risk Management (UM)"
+      ],
+      "giflriRole": "Lead Quality Auditor for Takaful",
+      "email": "o.hassan@giflri.org"
+    },
+    {
+      "id": "exp-5",
+      "name": "Aisha Malik",
+      "role": "Director of Academic Affiliations & Standards",
+      "country": "Egypt",
+      "city": "Cairo",
+      "fields": [
+        "Institutional Quality",
+        "Curriculum Mapping",
+        "Accreditation Audits"
+      ],
+      "publications": 18,
+      "biography": "Directs the global inspection desk and 7-stage affiliation pipeline across 200+ partner universities.",
+      "qualifications": [
+        "M.Ed. in Higher Education Leadership",
+        "Certified Lead Quality Assessor"
+      ],
+      "giflriRole": "Director of Quality & Affiliations",
+      "email": "a.malik@giflri.org"
+    }
+  ],
+  "complaints": [
+    {
+      "id": "cmp-101",
+      "type": "Academic Quality Appeal",
+      "complainantName": "Prof. Ibrahim Qureshi",
+      "email": "i.qureshi@deccan.edu.in",
+      "institution": "Deccan Shariah Economics College",
+      "subject": "Module 3 Credit Assessment Variance Appeal",
+      "description": "We request an expedited review of the credit weighting assigned to the Islamic Microfinance practicum module during Stage 2 review.",
+      "priority": "medium",
+      "status": "Under Review",
+      "resolutionNotes": "Assigned to Academic Board Subcommittee for reassessment by Sept 10.",
+      "submittedAt": "2027-08-28 14:20"
+    },
+    {
+      "id": "cmp-102",
+      "type": "Audit Inspection Dispute",
+      "complainantName": "Dr. Maryam Al-Nuaimi",
+      "email": "m.nuaimi@gfa-dubai.ac.ae",
+      "institution": "Global Finance Academy",
+      "subject": "Annual Review Scorecard Clarification",
+      "description": "Seeking verification on observations recorded in Section 4 of the 2026 compliance audit report.",
+      "priority": "low",
+      "status": "Resolved",
+      "resolutionNotes": "Updated audit notes sent and resolved during joint conference call on Aug 30.",
+      "submittedAt": "2027-08-20 09:15",
+      "resolvedAt": "2027-08-30 16:00"
+    },
+    {
+      "id": "cmp-103",
+      "type": "Student Record Grievance",
+      "complainantName": "Bilal Farooq",
+      "email": "bilal.farooq@student.edu",
+      "institution": "Al Noor Institute of Islamic Finance",
+      "subject": "Certificate Transcript Re-issue Request",
+      "description": "Requesting verified duplicate digital certificate with revised graduation distinction honors.",
+      "priority": "high",
+      "status": "Pending",
+      "submittedAt": "2027-09-01 11:30"
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "log-1789651739666",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789651721411",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789651663417",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789651521031",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789651487463",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789650112841",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789646638270",
+      "action": "Updated institution details for efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952946145",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789645910402",
+      "action": "Media asset updated: Hero Section Ambient Video Loop",
+      "user": "Admin",
+      "entity": "Media",
+      "entityId": "media-2",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789645792019",
+      "action": "Media asset updated: GIFLRI Official Emblem & Crest",
+      "user": "Admin",
+      "entity": "Media",
+      "entityId": "media-1",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789645778538",
+      "action": "Media asset updated: Global Research Center Banner",
+      "user": "Admin",
+      "entity": "Media",
+      "entityId": "media-1788852734415",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789645705881",
+      "action": "Website section content updated across portal",
+      "user": "Admin",
+      "entity": "Content",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789643915224",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789194529306",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789193052939",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191876903",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191688839",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191569317",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191365635",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191307297",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789191264235",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789190954163",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789190502815",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789190490935",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789103803657",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789103717114",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789103703997",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789103583585",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789050311748",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789050307536",
+      "action": "User signed in: Al Noor Institute Registrar (INSTITUTION)",
+      "user": "Al Noor Institute Registrar",
+      "entity": "Auth",
+      "entityId": "user-inst-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1789025751212",
+      "action": "Updated global site settings and homepage content",
+      "user": "Admin",
+      "entity": "SiteSettings",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955953061",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955797127",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955636827",
+      "action": "User signed in: Prof. Dr. Bilal Qadir (FACULTY)",
+      "user": "Prof. Dr. Bilal Qadir",
+      "entity": "Auth",
+      "entityId": "user-faculty-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955636812",
+      "action": "User signed in: Zayd Ibrahim Al-Khatib (STUDENT)",
+      "user": "Zayd Ibrahim Al-Khatib",
+      "entity": "Auth",
+      "entityId": "user-student-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955614311",
+      "action": "User signed in: Al Noor Institute Registrar (INSTITUTION)",
+      "user": "Al Noor Institute Registrar",
+      "entity": "Auth",
+      "entityId": "user-inst-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955589900",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955562480",
+      "action": "User signed in: Dr. Tariq Al-Mansoor (ADMIN)",
+      "user": "Dr. Tariq Al-Mansoor",
+      "entity": "Auth",
+      "entityId": "user-admin-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955532636",
+      "action": "User signed in: Zayd Ibrahim Al-Khatib (STUDENT)",
+      "user": "Zayd Ibrahim Al-Khatib",
+      "entity": "Auth",
+      "entityId": "user-student-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788955520006",
+      "action": "User signed in: Al Noor Institute Registrar (INSTITUTION)",
+      "user": "Al Noor Institute Registrar",
+      "entity": "Auth",
+      "entityId": "user-inst-1",
+      "type": "security",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788953887066",
+      "action": "Website section content updated across portal",
+      "user": "Admin",
+      "entity": "Content",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788953745995",
+      "action": "Website section content updated across portal",
+      "user": "Admin",
+      "entity": "Content",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952950431",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952950431",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952948817",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952948817",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952948589",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952948589",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952948325",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952948325",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952947635",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952947635",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788952946145",
+      "action": "New institution affiliated: efdsfa",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "inst-1788952946145",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788950864554",
+      "action": "Website section content updated across portal",
+      "user": "Admin",
+      "entity": "Content",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788949393894",
+      "action": "New institution affiliated: RK ",
+      "user": "Admin",
+      "entity": "Institution",
+      "entityId": "1788949393894",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788852734415",
+      "action": "Media asset uploaded/added: Global Research Center Banner (banner)",
+      "user": "Admin",
+      "entity": "Media",
+      "entityId": "media-1788852734415",
+      "type": "creation",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788846222275",
+      "action": "Updated framework pillar: Islamic Banking & Sustainable FinTech",
+      "user": "Curriculum Director",
+      "entity": "Pillar",
+      "entityId": "finance",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1788846212737",
+      "action": "Updated global site settings and homepage content",
+      "user": "Admin",
+      "entity": "SiteSettings",
+      "type": "update",
+      "timestamp": "Just now"
+    },
+    {
+      "id": "log-1",
+      "action": "Affiliation application approved for ASEAN Islamic FinTech Academy",
+      "user": "Ahmed Al-Rashid",
+      "entity": "Application",
+      "entityId": "GIF-MY-2027-00205",
+      "type": "approval",
+      "timestamp": "2 min ago",
+      "details": "Moved to Stage 7 (Listed) with 3-year Tier-1 status."
+    },
+    {
+      "id": "log-2",
+      "action": "Verified certificate issued: CERT-2027-91055",
+      "user": "System Registrar",
+      "entity": "Certificate",
+      "entityId": "CERT-2027-91055",
+      "type": "certificate",
+      "timestamp": "15 min ago",
+      "details": "Zayd Ibrahim Al-Khatib - Executive Diploma in Islamic FinTech."
+    },
+    {
+      "id": "log-3",
+      "action": "Scheduled campus inspection for Emirates Islamic Banking Academy",
+      "user": "Aisha Malik",
+      "entity": "Inspection",
+      "entityId": "GIF-UAE-2027-00184",
+      "type": "inspection",
+      "timestamp": "1 hour ago",
+      "details": "Assigned to Quality Team 04 for Sept 18 site audit."
+    },
+    {
+      "id": "log-4",
+      "action": "Published new research paper: DeFi Smart Contracts Fiqh Alignments",
+      "user": "Prof. Fatima Zahra",
+      "entity": "Research",
+      "entityId": "rp-1",
+      "type": "research",
+      "timestamp": "3 hours ago",
+      "details": "DOI: 10.5524/giflri.2027.0184 uploaded to repository."
+    },
+    {
+      "id": "log-5",
+      "action": "System audit verification check passed with 0 warnings",
+      "user": "Security Sentinel",
+      "entity": "System",
+      "type": "security",
+      "timestamp": "5 hours ago",
+      "details": "Tamper-resistant cryptographic registry status intact."
+    }
+  ],
+  "studentRequests": [
+    {
+      "id": "SR-2027-001",
+      "studentName": "Zayd Ibrahim Al-Khatib",
+      "studentEmail": "zayd.khatib@alnoor.edu",
+      "serviceType": "Transcript Request",
+      "institution": "Al Noor Institute of Islamic Finance",
+      "program": "Diploma in Islamic Finance",
+      "status": "Completed",
+      "submittedAt": "2027-01-12",
+      "completedAt": "2027-01-14",
+      "notes": "Official digital e-transcript dispatched to applicant email."
+    },
+    {
+      "id": "SR-2027-002",
+      "studentName": "Mariam Binte Tariq",
+      "studentEmail": "mariam.tariq@gmail.com",
+      "serviceType": "Degree Attestation",
+      "institution": "Global Finance Academy",
+      "program": "Executive Program in Sukuk Structuring",
+      "status": "Processing",
+      "submittedAt": "2027-01-15",
+      "notes": "Under academic seal verification with Dubai desk."
+    }
+  ],
+  "facultyRegistrations": [
+    {
+      "id": "FAC-001",
+      "name": "Dr. Bilal Qadir",
+      "email": "b.qadir@dse-college.edu",
+      "institution": "Deccan Shariah Economics College",
+      "department": "Islamic Economics",
+      "specialization": "Microfinance & Zakat Models",
+      "cpdHours": 42,
+      "status": "Accredited",
+      "registeredAt": "2026-11-20"
+    },
+    {
+      "id": "FAC-002",
+      "name": "Dr. Sofia Al-Hashimi",
+      "email": "sofia.hashimi@qf-studies.qa",
+      "institution": "Qatar Institute of Islamic Studies",
+      "department": "Arabic Linguistics",
+      "specialization": "Classical Lexicography",
+      "cpdHours": 35,
+      "status": "Registered",
+      "registeredAt": "2027-01-05"
+    }
+  ],
+  "payments": [
+    {
+      "id": "INV-2027-8891",
+      "invoiceNumber": "INV-2027-8891",
+      "payerName": "Prof. Tariq Al-Mansoor",
+      "payerEmail": "rector@eiba.ae",
+      "institution": "Emirates Islamic Banking Academy",
+      "amount": 2500,
+      "currency": "USD",
+      "purpose": "Affiliation Application Fee",
+      "status": "Paid",
+      "date": "2027-01-10",
+      "transactionRef": "TXN-GIF-9923841"
+    },
+    {
+      "id": "INV-2027-8892",
+      "invoiceNumber": "INV-2027-8892",
+      "payerName": "Dr. Noor Azlan",
+      "payerEmail": "finance@fintech-asean.edu.my",
+      "institution": "ASEAN Islamic FinTech Academy",
+      "amount": 1800,
+      "currency": "USD",
+      "purpose": "Annual Quality Audit",
+      "status": "Paid",
+      "date": "2027-01-14",
+      "transactionRef": "TXN-GIF-9923985"
+    }
+  ],
+  "observatoryData": {
+    "fintechMetrics": [
+      {
+        "label": "Global Shariah FinTech Market",
+        "value": "$179.8B",
+        "change": "+24.5%",
+        "trend": "up",
+        "unit": "USD"
+      },
+      {
+        "label": "Accredited Smart Contracts",
+        "value": "1,420+",
+        "change": "+18.2%",
+        "trend": "up",
+        "unit": "Protocols"
+      },
+      {
+        "label": "Digital Sukuk Issuance",
+        "value": "$12.4B",
+        "change": "+32.1%",
+        "trend": "up",
+        "unit": "Volume"
+      },
+      {
+        "label": "Certified FinTech Scholars",
+        "value": "680",
+        "change": "+15.4%",
+        "trend": "up",
+        "unit": "Scholars"
+      }
+    ],
+    "arabicMetrics": [
+      {
+        "label": "Arabic NLP Corpus Tokens",
+        "value": "4.8B",
+        "change": "+45.0%",
+        "trend": "up",
+        "unit": "Tokens"
+      },
+      {
+        "label": "Standardized Arabic Tests",
+        "value": "128,000",
+        "change": "+22.8%",
+        "trend": "up",
+        "unit": "Candidates"
+      },
+      {
+        "label": "Digital Arabic Curricula",
+        "value": "340+",
+        "change": "+14.1%",
+        "trend": "up",
+        "unit": "Programs"
+      }
+    ],
+    "countryRankings": [
+      {
+        "rank": 1,
+        "country": "United Arab Emirates",
+        "code": "UAE",
+        "score": 96.4,
+        "institutionsCount": 38,
+        "studentsCount": 14200
+      },
+      {
+        "rank": 2,
+        "country": "Malaysia",
+        "code": "MY",
+        "score": 94.8,
+        "institutionsCount": 34,
+        "studentsCount": 12800
+      },
+      {
+        "rank": 3,
+        "country": "Saudi Arabia",
+        "code": "KSA",
+        "score": 93.2,
+        "institutionsCount": 29,
+        "studentsCount": 11500
+      },
+      {
+        "rank": 4,
+        "country": "Qatar",
+        "code": "QA",
+        "score": 89.6,
+        "institutionsCount": 16,
+        "studentsCount": 6400
+      },
+      {
+        "rank": 5,
+        "country": "United Kingdom",
+        "code": "UK",
+        "score": 87.2,
+        "institutionsCount": 12,
+        "studentsCount": 4900
+      },
+      {
+        "rank": 6,
+        "country": "Indonesia",
+        "code": "ID",
+        "score": 85.9,
+        "institutionsCount": 22,
+        "studentsCount": 9800
+      }
+    ],
+    "trends": [
+      {
+        "date": "2024",
+        "fintechIndex": 68,
+        "researchIndex": 72
+      },
+      {
+        "date": "2025",
+        "fintechIndex": 78,
+        "researchIndex": 81
+      },
+      {
+        "date": "2026",
+        "fintechIndex": 88,
+        "researchIndex": 90
+      },
+      {
+        "date": "2027 (Est)",
+        "fintechIndex": 98,
+        "researchIndex": 97
+      }
+    ]
+  },
+  "contactSubmissions": [
+    {
+      "id": "CONT-1",
+      "name": "Dr. Khalid Mansoor",
+      "email": "khalid@islamicbank.org",
+      "subject": "Academic Partnership Inquiry",
+      "message": "We are looking to align our new banking curricula with GIFLRI international framework.",
+      "submittedAt": "2027-01-12"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-1",
+      "email": "rector@eiba.ae",
+      "subscribedAt": "2027-01-02",
+      "active": true
+    },
+    {
+      "id": "sub-2",
+      "email": "admissions@alnoor-finance.edu",
+      "subscribedAt": "2027-01-05",
+      "active": true
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-1",
+      "name": "Dr. Tariq Al-Mansoor",
+      "email": "admin@giflri.org",
+      "password": "admin123",
+      "role": "admin",
+      "title": "Executive Director & Chief Registrar",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "permissions": [
+        "all",
+        "admin",
+        "approvals",
+        "certificates",
+        "institutions",
+        "users"
+      ],
+      "createdAt": "2024-01-01",
+      "lastLogin": "Just now"
+    },
+    {
+      "id": "user-inst-1",
+      "name": "Al Noor Institute Registrar",
+      "email": "alnoor@institution.edu",
+      "password": "institution123",
+      "role": "institution",
+      "title": "Director of Academic Affairs",
+      "institutionId": "1",
+      "institutionName": "Al Noor Institute of Islamic Finance",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "permissions": [
+        "institution:portal",
+        "applications:submit",
+        "programs:manage"
+      ],
+      "createdAt": "2024-03-15",
+      "lastLogin": "Just now"
+    },
+    {
+      "id": "user-student-1",
+      "name": "Zayd Ibrahim Al-Khatib",
+      "email": "student@giflri.org",
+      "password": "student123",
+      "role": "student",
+      "title": "Diploma Candidate in Islamic Finance",
+      "studentId": "STD-2027-8902",
+      "institutionId": "1",
+      "institutionName": "Al Noor Institute of Islamic Finance",
+      "program": "Diploma in Islamic Finance",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "permissions": [
+        "student:portal",
+        "certificates:view",
+        "transcripts:request"
+      ],
+      "createdAt": "2025-09-01",
+      "lastLogin": "Just now"
+    },
+    {
+      "id": "user-faculty-1",
+      "name": "Prof. Dr. Bilal Qadir",
+      "email": "faculty@giflri.org",
+      "password": "faculty123",
+      "role": "faculty",
+      "title": "Senior Professor of Islamic Economics",
+      "institutionId": "3",
+      "institutionName": "Deccan Shariah Economics College",
+      "department": "Department of Islamic Finance & Banking",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
+      "permissions": [
+        "faculty:portal",
+        "cpd:track",
+        "research:submit"
+      ],
+      "createdAt": "2024-06-10",
+      "lastLogin": "Just now"
+    }
+  ],
+  "eventRegistrations": []
+}

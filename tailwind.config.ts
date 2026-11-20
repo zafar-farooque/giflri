@@ -1,0 +1,197 @@
+import type { Config } from 'tailwindcss'
+
+const config: Config = {
+  content: [
+    './index.html',
+    './src/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './sections/**/*.{js,ts,jsx,tsx,mdx}',
+    './context/**/*.{js,ts,jsx,tsx,mdx}',
+    './lib/**/*.{js,ts,jsx,tsx,mdx}',
+    './features/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#0F4C45',
+          light: '#146B5E',
+          dark: '#08332E',
+          50: '#EFF7F6',
+          100: '#D1E7E3',
+          200: '#A3CFC8',
+          300: '#75B7AD',
+          400: '#479F92',
+          500: '#2C8C7B',
+          600: '#1E6E60',
+          700: '#145046',
+          800: '#0F3D37',
+          900: '#0A2E2B',
+          950: '#051C1A',
+        },
+        gold: {
+          DEFAULT: '#C9A227',
+          light: '#D4B04A',
+          dark: '#A8871F',
+          50: '#FDF8ED',
+          100: '#F9EDD1',
+          200: '#F3DBA3',
+          300: '#EEC875',
+          400: '#E8B647',
+          500: '#E2A419',
+          600: '#C9A227',
+          700: '#A8871F',
+          800: '#876C1A',
+          900: '#6B5516',
+          950: '#3D2D0B',
+        },
+        ivory: {
+          DEFAULT: '#F8FAF9',
+          50: '#FFFFFF',
+          100: '#F8FAF9',
+          200: '#F1F5F9',
+          300: '#E2E8F0',
+          400: '#CBD5E1',
+          500: '#94A3B8',
+        },
+        ink: {
+          DEFAULT: '#0F172A',
+          light: '#334155',
+          dark: '#020617',
+        },
+        accent: {
+          DEFAULT: '#2C8C7B',
+        },
+      },
+      fontFamily: {
+        heading: ['var(--font-playfair)', 'Georgia', 'serif'],
+        body: ['var(--font-inter)', 'system-ui', 'sans-serif'],
+        arabic: ['var(--font-noto-arabic)', 'system-ui', 'sans-serif'],
+      },
+      fontSize: {
+        'display-xl': ['4.5rem', { lineHeight: '1.1', letterSpacing: '-0.02em' }],
+        'display-lg': ['3.5rem', { lineHeight: '1.15', letterSpacing: '-0.02em' }],
+        'display-md': ['2.75rem', { lineHeight: '1.2', letterSpacing: '-0.01em' }],
+        'display-sm': ['2.25rem', { lineHeight: '1.25' }],
+        'heading-xl': ['1.875rem', { lineHeight: '1.3' }],
+        'heading-lg': ['1.5rem', { lineHeight: '1.35' }],
+        'heading-md': ['1.25rem', { lineHeight: '1.4' }],
+        'heading-sm': ['1.125rem', { lineHeight: '1.45' }],
+        'body-lg': ['1.125rem', { lineHeight: '1.7' }],
+        'body-md': ['1rem', { lineHeight: '1.7' }],
+        'body-sm': ['0.875rem', { lineHeight: '1.6' }],
+        'caption': ['0.75rem', { lineHeight: '1.5' }],
+      },
+      spacing: {
+        '18': '4.5rem',
+        '22': '5.5rem',
+        '26': '6.5rem',
+        '30': '7.5rem',
+      },
+      borderRadius: {
+        '4xl': '2rem',
+        '5xl': '2.5rem',
+      },
+      boxShadow: {
+        'glass': '0 8px 32px rgba(15, 76, 69, 0.12)',
+        'glass-lg': '0 20px 64px rgba(15, 76, 69, 0.18)',
+        'gold': '0 12px 40px rgba(201, 162, 39, 0.35)',
+        'gold-lg': '0 24px 80px rgba(201, 162, 39, 0.45)',
+        'inner-glass': 'inset 0 1px 0 rgba(255,255,255,0.2), inset 0 -1px 0 rgba(0,0,0,0.05)',
+      },
+      backdropBlur: {
+        'glass': '16px',
+        'glass-lg': '24px',
+      },
+      transitionDuration: {
+        '400': '400ms',
+        '600': '600ms',
+        '800': '800ms',
+        '1000': '1000ms',
+      },
+      transitionTimingFunction: {
+        'spring': 'cubic-bezier(0.22, 1, 0.36, 1)',
+        'ease-out-expo': 'cubic-bezier(0.19, 1, 0.22, 1)',
+      },
+      animation: {
+        'fade-in': 'fadeIn 0.6s ease-out forwards',
+        'fade-up': 'fadeUp 0.8s ease-out forwards',
+        'fade-down': 'fadeDown 0.8s ease-out forwards',
+        'scale-in': 'scaleIn 0.5s ease-out forwards',
+        'blur-in': 'blurIn 0.6s ease-out forwards',
+        'slide-up': 'slideUp 0.8s ease-out forwards',
+        'slide-down': 'slideDown 0.8s ease-out forwards',
+        'slide-left': 'slideLeft 0.8s ease-out forwards',
+        'slide-right': 'slideRight 0.8s ease-out forwards',
+        'float': 'float 6s ease-in-out infinite',
+        'pulse-slow': 'pulse 4s ease-in-out infinite',
+        'spin-slow': 'spin 20s linear infinite',
+        'spin-reverse': 'spinReverse 20s linear infinite',
+        'shimmer': 'shimmer 2.5s infinite',
+        'glow': 'glow 3s ease-in-out infinite alternate',
+        'counter': 'counter 2s ease-out forwards',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+        fadeUp: {
+          '0%': { opacity: '0', transform: 'translateY(30px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        fadeDown: {
+          '0%': { opacity: '0', transform: 'translateY(-30px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        scaleIn: {
+          '0%': { opacity: '0', transform: 'scale(0.9)' },
+          '100%': { opacity: '1', transform: 'scale(1)' },
+        },
+        blurIn: {
+          '0%': { opacity: '0', filter: 'blur(20px)' },
+          '100%': { opacity: '1', filter: 'blur(0)' },
+        },
+        slideUp: {
+          '0%': { transform: 'translateY(100%)' },
+          '100%': { transform: 'translateY(0)' },
+        },
+        slideDown: {
+          '0%': { transform: 'translateY(-100%)' },
+          '100%': { transform: 'translateY(0)' },
+        },
+        slideLeft: {
+          '0%': { transform: 'translateX(-100%)' },
+          '100%': { transform: 'translateX(0)' },
+        },
+        slideRight: {
+          '0%': { transform: 'translateX(100%)' },
+          '100%': { transform: 'translateX(0)' },
+        },
+        float: {
+          '0%, 100%': { transform: 'translateY(0px) rotate(0deg)' },
+          '50%': { transform: 'translateY(-20px) rotate(2deg)' },
+        },
+        spinReverse: {
+          '0%': { transform: 'rotate(360deg)' },
+          '100%': { transform: 'rotate(0deg)' },
+        },
+        shimmer: {
+          '0%': { backgroundPosition: '-200% 0' },
+          '100%': { backgroundPosition: '200% 0' },
+        },
+        glow: {
+          '0%': { boxShadow: '0 0 20px rgba(201, 162, 39, 0.3)' },
+          '100%': { boxShadow: '0 0 40px rgba(201, 162, 39, 0.6), 0 0 60px rgba(201, 162, 39, 0.3)' },
+        },
+        counter: {
+          '0%': { opacity: '0', transform: 'translateY(10px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+      },
+    },
+  },
+  plugins: [],
+}
+export default config

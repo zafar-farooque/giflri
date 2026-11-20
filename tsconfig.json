@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["./src/components/*"],
+      "@/sections/*": ["./src/sections/*"],
+      "@/context/*": ["./src/context/*"],
+      "@/hooks/*": ["./src/hooks/*"],
+      "@/lib/*": ["./src/lib/*"],
+      "@/locales/*": ["./src/locales/*"],
+      "@/styles/*": ["./src/styles/*"],
+      "@/pages/*": ["./src/pages/*"],
+      "@/routes/*": ["./src/routes/*"],
+      "@/Routes/*": ["./src/routes/*"],
+      "@/routes": ["./src/routes/AppRoutes.tsx"],
+      "@/Routes": ["./src/routes/AppRoutes.tsx"],
+      "@/data/*": ["./src/data/*", "./server/data/*"],
+      "@/data": ["./src/data/seedData.ts"],
+      "@/types/*": ["./src/types/*", "./server/types/*"],
+      "@/types": ["./src/types/index.ts"],
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src", "server", "vite.config.ts"],
+  "exclude": ["node_modules", "dist"]
+}
